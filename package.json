@@ -1,8 +1,7 @@
 {
-  "name": "@sensebox/openSenseMap-translations",
-  "version": "0.0.1",
+  "name": "@sensebox/opensensemap-i18n",
+  "version": "0.0.0",
   "description": "Messages and its translations used by openSenseMap and openSenseMap-API",
-  "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
