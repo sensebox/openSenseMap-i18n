@@ -1,0 +1,15 @@
+{
+  "DATADOWNLOAD": "Datendownload",
+  "DOWNLOAD_DOWNLOADFROM": "Daten herunterladen von Station",
+  "DOWNLOAD_SELECTTIMEFRAME": "Wähle einen Zeitraum",
+  "DOWNLOAD_LAST24HOURS": "Letzte 24 Std.",
+  "DOWNLOAD_LASTWEEK": "Letzte Woche",
+  "DOWNLOAD_LASTMONTH": "Letzter Monat",
+  "DOWNLOAD_SELECTSENSOR": "Wähle einen Sensor",
+  "DOWNLOAD_SELECTFILEFORMAT": "Wähle ein Dateiformat",
+  "DOWNLOAD_INTRO": "Hier kannst du die Messdaten von senseBoxen herunterladen. Es werden die Daten der Boxen heruntergeladen, die du auf der Karte siehst. Zoome und bewege die Karte, um die Auswahl einzuschränken, wähle dann einen Zeitraum sowie Sensor. Der Download der Daten kann einige Zeit dauern.</br>Tägliche Datendumps können im <a href=\"https://archive.opensensemap.org\" target='_blank'>Archiv</a> heruntergeladen werden.",
+  "DOWNLOAD_WARNING": "Lade Daten von {{ count }} Stationen*<br/><small>* Nicht alle Stationen haben unbedingt Daten im gewählten Zeitraum. Nutze den <a href=\"/filter\">Filter</a>, um passende senseBoxen zu finden.</small>",
+  "PLEASE_WAIT_DATA": "Bitte warten, die Daten werden geladen...",
+  "DOWNLOAD_NODATA": "Im ausgewählten Zeitraum liegen keine Daten vor.",
+  "DOWNLOAD_LICENSE": "Die Daten stehen unter der <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> und können frei verwendet werden."
+}

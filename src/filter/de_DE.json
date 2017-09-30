@@ -1,0 +1,10 @@
+{
+  "SEARCH_AND_FILTER": "Suche und Filter",
+  "SAF_INTRO": "Wähle Kriterien, nach denen du senseBoxen filtern und suchen möchtest. Das Filtern mit Zeitraum erfordert, dass neue Daten vom Server geladen werden, was etwas dauert. Das Filtern nach Namen, Gruppen und Standort erfolgt schon beim Tippen.",
+  "SAF_HELP": "Klicke 'Filter anwenden', um deine Filtereinstellungen anzuwenden.",
+  "SAF_APPLY": "Filter anwenden",
+  "SAF_RESET": "Filter zurücksetzen",
+  "RESULTS": "Ergebnisse",
+  "NO_RESULTS": "Es wurden leider keine Boxen mit diesen Filtereinstellungen gefunden.",
+  "FILTER_TIMEFRAME": "Messungs-Zeitraum",
+}

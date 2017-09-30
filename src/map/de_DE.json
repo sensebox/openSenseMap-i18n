@@ -1,0 +1,6 @@
+{
+  "LEGEND_ACTIVE": "Aktive Messstation (< 7 Tage)",
+  "LEGEND_ACTIVE_30": "Inaktive Messstation (> 7 Tage)",
+  "LEGEND_INACTIVE": "Inaktive Messstation (> 30 Tage)",
+  "LEGEND_SHOWALL": "Anzeigen",
+}
