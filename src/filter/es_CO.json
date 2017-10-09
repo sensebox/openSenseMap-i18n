@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Buscar y filtrar",
+  "SAF_INTRO": "Seleccionar el criterio por el cual usted quiere filtrar las estaciones. Cuando usted cambia el periodo de tiempo y el fenómeno juntos, un nuevo conjunto de senseBoxes será recuperado desde el servidor, esto podria tardar un poco. Las búsquedas por senseBoxes, name, grupos, exposición y fenómeno (sin periodo de tiempo) son instantaneas.",
+  "SAF_HELP": "Haga click en 'Aplicar filtro' para aplicar las configuraciones del filtro",
+  "SAF_APPLY": "Aplicar filtro",
+  "SAF_RESET": "Remover filtro",
+  "RESULTS": "Resultados",
+  "NO_RESULTS": "De manera desafortunada, no hay resultados que coincidan con sus filtros."
+}

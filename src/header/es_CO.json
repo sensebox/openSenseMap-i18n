@@ -1,1 +1,12 @@
-{}
+{
+  "EXPLORE": "Explorar",
+  "REGISTER": "Registrar",
+  "CHANGE_LANG": "Cambiar idioma",
+  "SEARCH": "Buscar dirección",
+  "DOWNLOAD": "Descargar",
+  "FILTER": "Filtrar",
+  "SENSEBOXES": "senseBoxes",
+  "MEASUREMENTS": "mediciones",
+  "INTERPOLATION": "interpolación",
+  "INFO": "Acerca de"
+}

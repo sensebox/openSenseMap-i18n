@@ -1,1 +1,13 @@
-{}
+{
+  "STEP2": "Mi caja",
+  "STEP2_DESCRIPTION": "Por favor envíenos información adicional acerca de su senseBox. La información puede ser modificada después del registro.",
+  "STEP3": "Ubicación",
+  "STEP3_DESCRIPTION": "Haga click en el mapa para seleccionar una ubicación para su senseBox.",
+  "STEP4": "Configuración de Hardware",
+  "STEP4_DESCRIPTION": "Seleccionar el modelo de su senseBox.",
+  "STEP5": "Confirmar",
+  "STEP5_DESCRIPTION": "Para finalizar el registro de su senseBox, haga click en \"Finalizar\" y entonces usted recibirá un correo electrónico con instrucciones sobre cómo ensamblar su senseBox y cómo cargar su código en ella. Si usted cambio de opinión, haga click en \"Cancelar\" y entonces usted regresará al mapa resumen.",
+  "CUSTOMBOX": "Aquí puede configurar su senseBox. Adicionar sensores a su configuración y especificar su fenómeno (que está siendo medido), unidad y tipo (nombre de componente).<br/> Un sensor de temperatura podría lucir así:<br/> <ul> <li>Fenómeno: Temperatura</li> <li>Unidad: °C</li> <li>Tipo: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "La instalación de su sensor esta incompleta, por favor revisar si usted tiene todos los campos diligenciados (fenómeno, unidad y tipo)",
+  "REG_HARDWAREINCOMPLETE": "La instalación de su hardware esta incompleta, por favor selecionar un modelo"
+}

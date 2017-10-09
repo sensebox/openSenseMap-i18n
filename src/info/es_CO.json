@@ -1,1 +1,5 @@
-{}
+{
+  "INFO_MADE_BY": "Datos del mapa <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a><br>Mosaicos de mapas por cortesía de <a href=\"http://www.mapbox.com/\" target=\"_blank\">Mapbox</a><br>Banderas de los países por <a href=\"http://www.icondrawer.com\" target=\"_blank\">Icondrawer</a><br>Datos del sensor: <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>",
+  "INFO_COPYRIGHT_NOTICES": "Aviso de Copyright",
+  "INFO_ABOUT": "openSenseMap es una plataforma para compatir los datos de sensor, en la cual cualquiera puede participar.<br/> Este proyecto inicio en 2015 en e laboratorio GI@School del instituto para la Geoinformática en Münster, donde es usada en conjunto con <a href=\"http://www.sensebox.de/de/products/\" target=\"_blank\">senseBox</a> para educar almunos y ciudadanos, para ofrecerles una plataforma para compartir datos del sensor.<br/><br/> <a href=\"https://github.com/sensebox/openSenseMap\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> Este sitio web</a> y <a href=\"https://github.com/sensebox/openSenseMap-API\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> el API</a> son software de código abierto, sugerencias para mejoramiento son siempre bienvenidas.<br/>"
+}
