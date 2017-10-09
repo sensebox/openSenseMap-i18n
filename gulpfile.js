@@ -49,7 +49,7 @@ gulp.task('merge', function(){
 // Lints merged files and checks if the required keys
 // are available.
 gulp.task('validate', function () {
-  return gulp.src(['.tmp/de_DE.json','.tmp/en_US.json'])
+  return gulp.src(['.tmp/de_DE.json','.tmp/en_US.json', '.tmp/es_CO.json'])
     .pipe(jsonschema('src/schema.json', {
       banUnknownProperties: true
     }));
@@ -69,14 +69,14 @@ gulp.task('coverage', function () {
 
       let coverage = keysSlave / keysMaster * 100;
       let filename = path.basename(file.path)
-      gutil.log(`Coverage for ${gutil.colors.red(filename)}:`, gutil.colors.magenta(coverage), '%', `Translated keys: ${keysSlave}/${keysMaster}`);
+      gutil.log(`Coverage for ${gutil.colors.red(filename)}:`, gutil.colors.magenta(coverage.toFixed(2)), '%', `Translated keys: ${keysSlave}/${keysMaster}`);
 
       callback(null, file);
     });
   }
 
   return gulp.src(['.tmp/*.json'])
-    .pipe(jsoncoverage({src:'.tmp/de_DE.json'}));
+    .pipe(jsoncoverage({src:'.tmp/en_US.json'}));
 });
 
 gulp.task('build', ['merge', 'minify' ]);
