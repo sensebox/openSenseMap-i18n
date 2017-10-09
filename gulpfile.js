@@ -1,10 +1,14 @@
 var fs = require('fs');
+var path = require('path');
 
 var gulp = require('gulp');
+var gutil = require('gulp-util');
 var clean = require('gulp-clean');
 var merge = require('gulp-merge-json');
 var jsonminify = require('gulp-jsonminify');
 var jsonschema = require('gulp-json-schema');
+
+var through = require('through2');
 
 // Get files from subdirectories
 function getFiles (dir, files_){
@@ -45,14 +49,34 @@ gulp.task('merge', function(){
 // Lints merged files and checks if the required keys
 // are available.
 gulp.task('validate', function () {
-  return gulp.src('.tmp/*.json')
-    .pipe(jsonschema('src/schema.json'));
+  return gulp.src(['.tmp/de_DE.json','.tmp/en_US.json'])
+    .pipe(jsonschema('src/schema.json', {
+      banUnknownProperties: true
+    }));
 });
 
 gulp.task('minify', ['validate'], function () {
-  return gulp.src(['.tmp/*.json'])
+  return gulp.src(['.tmp/de_DE.json', '.tmp/en_US.json'])
     .pipe(jsonminify())
     .pipe(gulp.dest('dist'));
+});
+
+gulp.task('coverage', function () {
+  function jsoncoverage (options) {
+    return through.obj(function(file, encoding, callback) {
+      let keysMaster = Object.keys(JSON.parse(fs.readFileSync(options.src, "utf8"))).length;
+      let keysSlave = Object.keys(JSON.parse(file.contents.toString("utf8"))).length;
+
+      let coverage = keysSlave / keysMaster * 100;
+      let filename = path.basename(file.path)
+      gutil.log(`Coverage for ${gutil.colors.red(filename)}:`, gutil.colors.magenta(coverage), '%', `Translated keys: ${keysSlave}/${keysMaster}`);
+
+      callback(null, file);
+    });
+  }
+
+  return gulp.src(['.tmp/*.json'])
+    .pipe(jsoncoverage({src:'.tmp/de_DE.json'}));
 });
 
 gulp.task('build', ['merge', 'minify' ]);
