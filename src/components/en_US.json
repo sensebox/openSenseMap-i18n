@@ -1,1 +1,12 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Starting date",
+  "DATEPICKER_ENDINGDATE": "Ending date",
+  "DATEPICKER_CURRENTTEXT": "Today",
+  "DATEPICKER_CLEARTEXT": "Clear",
+  "DATEPICKER_CLOSETEXT": "Close",
+  "CHART_TOOLTIP_PLACEHOLDER": "For details move the mouse over the datapoints",
+  "BADGE_PLACEHOLDER_PREFIX": "Refreshing in",
+  "BADGE_PLACEHOLDER_SUFFIX": "secs",
+  "TOOLTIP_MINIMIZE": "Minimize",
+  "TOOLTIP_MAXIMIZE": "Maximize"
+}

@@ -1,1 +1,23 @@
-{}
+{
+  "STEP0": "Introduction",
+  "STEP0_DESCRIPTION": "Vielen Dank, dass ihr am openSenseMap Projekt teilnehmen und eine eigene Messstation oder senseBox registrieren wollt. Vor der Registrierung wollen wir Euch kurz sagen, welche persönlichen Daten wir speichern. <br><br>Bei der Registrierung müsst ihr euren Namen, eine gültige E-Mail Adresse und den Standort eurer senseBox angeben. <br><br>Die E-Mail Adresse wird genutzt um euch den Arduino Sketch zu schicken  und euch unregelmäßig über Neuigkeiten zu informieren. Die E-Mail Adresse wird nicht an Drittanbieter weitergegeben und kann auch nicht von Anderen eingesehen werden. <br><br>Der Standort wird genutzt um auf einer Karte zu zeigen, wo sich die senseBox physikalisch befindet. Diese Information ist wichtig um die Einflüsse des Aufstellungsortes in die Messwerte einfließen zu lassen. Der Standort ist zusammen mit dem von dir gewählten Namen deiner Station für jeden einsehbar oder kann über die <a href='https://api.opensensemap.org' target='_blank'>API</a> abgerufen werden. <br><br>Alle Daten werden auf einem Server bei <a href='https://aws.amazon.com/' target='_blank'>Amazon Web Services (AWS)</a> gespeichert. Der Server befindet sich physikalisch in der Region Frankfurt in Deutschland. Weitere Informationen zu AWS Regionen findet ihr <a href='https://aws.amazon.com/de/about-aws/global-infrastructure/' target='_blank'>hier</a>.",
+  "STEP0_ACCEPT": "Ok, accept",
+  "STEP2": "My senseBox",
+  "STEP2_SUB1": "General",
+  "STEP2_SUB1_DESCRIPTION": "Please submit additional information about your senseBox. This information can be changed after registration as well.",
+  "STEP2_SUB2": "Location",
+  "STEP2_SUB2_DESCRIPTION": "Click on the map to choose a location for your senseBox.",
+  "STEP2_SUB3": "Hardware",
+  "STEP2_SUB3_DESCRIPTION": "Select your senseBox model.",
+  "STEP2_SUB4": "Advanced",
+
+  "STEP3": "Confirm",
+  "STEP3_DESCRIPTION": "To finish registering your senseBox, click \"Finish\" and you will receive an email with instructions on how to assemble your senseBox and how to upload your code onto it. If you have changed your mind, click \"Cancel\" and you will be redirected back to the overview map.",
+  "STEP4": "Summary",
+  "REGISTRATION_SUCCESS": "Your senseBox was successully created. Soon you will receive an email with all information and your senseBox sketch.",
+  "REGISTRATION_FAIL": "There was an error creating your senseBox in the system. Please try again later.",
+  "REGISTRATION_LICENSE": "By clicking \"Finish\" you agree that the sensor data you submit can be freely used by the public according to the <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>.",
+  "CUSTOMBOX": "Here you can set up your own senseBox. Add sensors to your setup and specify their phenomenon (what is being measured?), unit and type (component name).<br/> A temperature sensor might look like this:<br/> <ul> <li>Phenomenon: Temperature</li> <li>Unit: °C</li> <li>Type: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "Your sensor setup is incomplete, please check if you have filled all fields (phenomenon, unit and type)",
+  "REG_HARDWAREINCOMPLETE": "Your hardware setup is incomplete, please select a model"
+}

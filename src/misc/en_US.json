@@ -1,1 +1,12 @@
-{}
+{
+  "NEXT": "Next",
+  "PREVIOUS": "Back",
+  "SAVE": "Save",
+  "CANCEL": "Cancel",
+  "CLOSESIDEBAR": "Close",
+  "SETTINGS": "Settings",
+  "DELETE": "Delete",
+  "COMMON_ERROR": "An error occured. Please try again later.",
+  "HELP_SECTION": "Help section",
+  "Name": "Name"
+}
