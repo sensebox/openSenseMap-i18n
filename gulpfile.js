@@ -49,7 +49,7 @@ gulp.task('merge', function(){
 // Lints merged files and checks if the required keys
 // are available.
 gulp.task('validate', function () {
-  return gulp.src(['.tmp/de_DE.json','.tmp/en_US.json', '.tmp/es_CO.json'])
+  return gulp.src(['.tmp/*.json'])
     .pipe(jsonschema('src/schema.json', {
       banUnknownProperties: true
     }));
