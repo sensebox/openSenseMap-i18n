@@ -1,1 +1,13 @@
-{}
+{
+  "STEP2": "Kotak saya",
+  "STEP2_DESCRIPTION": "Sila mengemukakan maklumat tambahan tentang senseBox anda. Maklumat ini boleh juga diubah selepas pendaftaran.",
+  "STEP3": "Lokasi",
+  "STEP3_DESCRIPTION": "Klik pada peta untuk memilih lokasi untuk senseBox anda.",
+  "STEP4": "Pemasangan Perkakasan",
+  "STEP4_DESCRIPTION": "Pilih model senseBox anda.",
+  "STEP5": "Setuju",
+  "STEP5_DESCRIPTION": "Untuk menyelesaikan pendaftaran senseBox anda, klik \"Selesai\" dan anda akan menerima emel dengan pengenalan dalam bagaimana untuk memasang senseBox anda dan bagaimana untuk memuat naik kod anda padanya. Jika anda telah mengubah pikiran anda, klik \"Batal\" dan anda akan diarah balik ke gambaran peta.",
+  "CUSTOMBOX": "Disini anda boleh membuat senseBox anda sendiri. Tambah pengesan ke pemasangan anda dan menetapkan fenomenanya (apa yang sedang diukur?), unit dan jenis (nama komponen).<br/> Suhu pengesan mungkin kelihatan seperti ini:<br/> <ul> <li>Fenomena: Suhu</li> <li>Unit: °C</li> <li>Jenis: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "Pemasangan pengesan anda tidak lengkap, sila semak jika anda sudah memenuhkan semua ruang (fenomena, unit dan jenis)",
+  "REG_HARDWAREINCOMPLETE": "Pemasangan perkakasan anda tidak lengkap. sila pilih model"
+}

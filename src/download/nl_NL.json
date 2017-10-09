@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Data download",
+  "DOWNLOAD_DOWNLOADFROM": "Downloading data van de station",
+  "DOWNLOAD_SELECTTIMEFRAME": "Selecteer een time frame",
+  "DOWNLOAD_LAST24HOURS": "Laatste 24 uur",
+  "DOWNLOAD_LASTWEEK": "Laatste week",
+  "DOWNLOAD_LASTMONTH": "Laatste maand",
+  "DOWNLOAD_SELECTSENSOR": "Selecteer een sensor",
+  "DOWNLOAD_SELECTFILEFORMAT": "Selecteer een bestandsformaat",
+  "DOWNLOAD_LICENSE": "Alle data valt onder de <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> licentie en kan vrij gebruikt worden.",
+  "DOWNLOAD_INTRO": "U kan nu uw data downloaden van senseBoxes die u op de map ziet. Verplaats of zoom de map om uw selectie te wijzigen, daarna selecteer een tijdsframe en fenomeen die u wilt downloaden. Het bestandsformaat is CSV, downloaden kan even duren.",
+  "DOWNLOAD_WARNING": "Downloading data van {{ count }} stations*<br/><small>* Niet alle stations hebben mogelijks data in de geselecteerde tijdsperiode. Gebruik de <a ui-sref=\"explore.map.filter\">Filter</a> om boxen en sensoren te vinden die u wil.</small>",
+  "PLEASE_WAIT_DATA": "Data aan het laden, gelieve even te wachten.",
+  "DOWNLOAD_NODATA": "Er is geen data beschikbaar in het geselecteerde tijdsframe."
+}

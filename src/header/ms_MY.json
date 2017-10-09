@@ -1,1 +1,12 @@
-{}
+{
+  "EXPLORE": "Meneroka",
+  "REGISTER": "Daftar",
+  "CHANGE_LANG": "Tukar bahasa",
+  "SEARCH": "Cari alamat",
+  "FILTER": "Tapis",
+  "DOWNLOAD": "Muat turun",
+  "SENSEBOXES": "senseBoxes",
+  "MEASUREMENTS": "pengukuran",
+  "INTERPOLATION": "Interpolasi",
+  "INFO": "Tentang"
+}

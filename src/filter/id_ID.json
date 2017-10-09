@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Cari dan filter",
+  "SAF_INTRO": "Masukkan kriteria dalam filter station. Ketika kamu mengubah jangka waktu dan gejala bersamaan, akan ada sebuah set senseBox baru yang akan diambil dari server, hal ini akan memakan waktu. Sedangkan mencari berdasarkan nama, grup, pemaparan, dan gejala (tanpa jangka waktu) dapat dilakukan secara langsung.",
+  "SAF_HELP": "Klik 'Gunakan Filter' untuk menerapkan hasil filter",
+  "SAF_APPLY": "Gunakan filter",
+  "SAF_RESET": "Reset filter",
+  "RESULTS": "Hasil",
+  "NO_RESULTS": "Sayang sekali, tidak ada hasil yang cocok dengan filter."
+}

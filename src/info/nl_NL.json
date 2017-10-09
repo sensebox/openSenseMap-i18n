@@ -1,1 +1,5 @@
-{}
+{
+  "INFO_MADE_BY": "Map data <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap bijdragers</a><br>Map tegels eigendom van <a href=\"http://www.mapbox.com/\" target=\"_blank\">Mapbox</a><br>Landsvlaggen door <a href=\"http://www.icondrawer.com\" target=\"_blank\">Icondrawer</a><br>Sensor data: <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>",
+  "INFO_COPYRIGHT_NOTICES": "Copyright bericht",
+  "INFO_ABOUT": "openSenseMap is een platvorm voor open sensordata aan welke iedereen kan deelnemen. Dit project is gestart in 2015 in het GI@School lab aan de instelling voor Geoinformatics in Münster. Hier wordt het samen gebruikt met <a href=\"http://www.sensebox.de/de/products/\" target=\"_blank\">senseBox</a> om studenten en inwoners op te leiden en hun een platform voor het delen van sensordata aan te bieden.<br/><br/> <a href=\"https://github.com/sensebox/openSenseMap\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> Deze website</a> en <a href=\"https://github.com/sensebox/openSenseMap-API\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> de data API</a> zijn open-source software, suggesties voor verbetering zijn altijd welkom.<br/>"
+}

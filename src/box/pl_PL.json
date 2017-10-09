@@ -1,1 +1,18 @@
-{}
+{
+  "NAME_YOUR_STATION": "Nazwa Twojej stacji",
+  "STATION_PLACEMENT": "Lokalizacja",
+  "GROUP_NAME": "Identyfikator grupy",
+  "PLEASE_SPECIFY_GROUPID": "Opcjonalny przedrostek dla grupy kilku senseBox'ów",
+  "MANUAL_CONFIGURATION": "Konfiguracja ręczna",
+  "ADD_SENSOR": "Dodaj czujnik",
+  "STATION_PLACEMENT_INDOOR":"Wewnątrz",
+  "STATION_PLACEMENT_OUTDOOR":"Na zewnątrz",
+  "CONFIG_PHENOMENON": "Zjawisko",
+  "CONFIG_UNIT": "Jednostka",
+  "CONFIG_TYPE": "Typ",
+  "CONFIG_EDIT": "Edycja",
+  "FINISH": "Zakończ",
+  "SETTINGS_SELECTIMAGE": "Wybierz obraz",
+  "SETTINGS_IMAGE_RESTRICTIONS": "Wspierane formaty to PNG, JPG, JPEG o maksymalnym rozmiarze 1.5 MB",
+  "LAST_MEASUREMENT_FROM": "dokonano ostatniego pomiaru"
+}

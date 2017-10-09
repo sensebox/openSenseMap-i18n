@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Procurar e filtrar",
+  "SAF_INTRO": "Selecione um critério pelo qual você quer filtrar estações. Quando você trocar o prazo e fênomeno combinado com o prazo, uma nova senseBox será carregada do servidor, isso pode levar um tempo. Procure por senseBoxes por nome, grupo, exposição e fênomeno (sem prazos) é instantâneo.",
+  "SAF_HELP": "Clique 'Aplicar filtros' para aplicar os filtros nas configurações",
+  "SAF_APPLY": "Aplicar filtros",
+  "SAF_RESET": "Limpar filtros",
+  "RESULTS": "Resultados",
+  "NO_RESULTS": "Infelizmente, não há resultados para o seu filtro."
+}

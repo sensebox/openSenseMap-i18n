@@ -1,1 +1,7 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Tanggal mulai",
+  "DATEPICKER_ENDINGDATE": "Tanggal selesai",
+  "DATEPICKER_CURRENTTEXT": "Hari ini",
+  "DATEPICKER_CLEARTEXT": "Bersihkan",
+  "DATEPICKER_CLOSETEXT": "Tutup"
+}

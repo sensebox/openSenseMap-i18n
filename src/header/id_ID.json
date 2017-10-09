@@ -1,1 +1,12 @@
-{}
+{
+  "EXPLORE": "Jelajahi",
+  "REGISTER": "Daftar Baru",
+  "CHANGE_LANG": "Ubah bahasa",
+  "SEARCH": "Cari alamat",
+  "DOWNLOAD": "Unduh",
+  "FILTER": "Filter",
+  "SENSEBOXES": "senseBox",
+  "MEASUREMENTS": "pengukuran",
+  "INTERPOLATION": "Interpolasi",
+  "INFO": "Tentang"
+}

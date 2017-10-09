@@ -1,1 +1,10 @@
-{}
+{
+  "STEP2": "Mój box",
+  "STEP2_DESCRIPTION": "Podaj dodatkowe informacje dotyczące Twojego senseBox'a.",
+  "STEP3": "Lokalizacja",
+  "STEP3_DESCRIPTION": "Kliknij na mapę aby wybrać lokalizację swojego senseBox'a.",
+  "STEP4": "Dane techniczne",
+  "STEP4_DESCRIPTION": "Wybierz model swojego senseBox'a.",
+  "STEP5": "Pobieranie",
+  "STEP5_DESCRIPTION": "W celu zakończenia rejestracji swojego senseBox'a, kliknij \"Zakończ\". Otrzymasz wiadomość email z instrukcją jak złożyć swojego senseBox'a i jak wgrać na niego kod źródłowy. Jeśli zmieniłeś/-aś zdanie, kliknij \"Anuluj\" i zostaniesz przekierowany/-a z powrotem na mapę poglądową."
+}

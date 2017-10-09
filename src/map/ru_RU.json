@@ -1,1 +1,6 @@
-{}
+{
+  "LEGEND_ACTIVE": "Активные senseBox (< 7 дней)",
+  "LEGEND_ACTIVE_30": "Неактивные senseBox (> 7 дней)",
+  "LEGEND_INACTIVE": "Неактивные senseBox (> 30 дней)",
+  "LEGEND_SHOWALL": "Показать"
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "NEXT": "Dalej",
+  "PREVIOUS": "Wróć",
+  "SAVE": "Zapisz",
+  "CANCEL": "Anuluj",
+  "CLOSESIDEBAR": "Zamknij",
+  "SETTINGS": "Ustawienia",
+  "DELETE": "Usuń",
+  "Name": "Imię"
+}

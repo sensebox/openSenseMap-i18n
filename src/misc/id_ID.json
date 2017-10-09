@@ -1,1 +1,11 @@
-{}
+{
+  "NEXT": "Lanjut",
+  "PREVIOUS": "Kembali",
+  "SAVE": "Simpan",
+  "CANCEL": "Batal",
+  "CLOSESIDEBAR": "Tutup",
+  "SETTINGS": "Pengaturan",
+  "DELETE": "Hapus",
+  "COMMON_ERROR": "Ada kesalahan ditemukan. Cobalah beberapa saat lagi.",
+  "Name": "Nama"
+}

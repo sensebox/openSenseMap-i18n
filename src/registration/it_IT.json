@@ -1,1 +1,13 @@
-{}
+{
+  "STEP2": "My box",
+  "STEP2_DESCRIPTION": "Per favore inserisci informazioni aggiuntive sulla tua senseBox. Queste informazioni possono essere cancellate dopo la registrazione.",
+  "STEP3": "Luogo",
+  "STEP3_DESCRIPTION": "Clicca sulla mappa per scegliere un luogo per la tua senseBox.",
+  "STEP4": "Hardware Setup",
+  "STEP4_DESCRIPTION": "Seleziona il tuo modello di senseBox.",
+  "STEP5": "Conferma",
+  "STEP5_DESCRIPTION": "Per finalizzare la registrazione della tua senseBox, clicca su \"Termina\" e rivecerai una email con le istruzioni per assemblare la senseBox e come caricarci del codice. Se hai cambiato idea, clicca \"Cancella\" e sarai rediretto alla mappa panoramica.",
+  "CUSTOMBOX": "Qui puoi settare la tua senseBox. Aggiungi sensori al tuo setup e specifica i fenomeni (cosa viene misurato?), unità di misura e tipo (nome componente).<br/> Un sensore di temperatura può assomigliare a questo:<br/> <ul> <li>Fenomeno: Temperatura</li> <li>Unità di misura: °C</li> <li>Tipo: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "Il settaggio del tuo sensore è incompleta, per favore controlla se hai riempito tutti i campi (fenomeno, unità di misura e tipo)",
+  "REG_HARDWAREINCOMPLETE": "Your hardware setup is incomplete, please select a model"
+}

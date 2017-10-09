@@ -1,1 +1,12 @@
-{}
+{
+  "EXPLORE": "Verken",
+  "REGISTER": "Registreer",
+  "CHANGE_LANG": "Verander taal",
+  "SEARCH": "Zoek adres",
+  "FILTER": "Filter",
+  "DOWNLOAD": "Download",
+  "SENSEBOXES": "senseBoxen",
+  "MEASUREMENTS": "afmetingen",
+  "INTERPOLATION": "Interpolatie",
+  "INFO": "Over"
+}

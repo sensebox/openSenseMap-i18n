@@ -1,1 +1,7 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Startdatum",
+  "DATEPICKER_ENDINGDATE": "Einddatum",
+  "DATEPICKER_CURRENTTEXT": "Vandaag",
+  "DATEPICKER_CLEARTEXT": "Wis",
+  "DATEPICKER_CLOSETEXT": "Sluit"
+}

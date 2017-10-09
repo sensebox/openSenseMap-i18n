@@ -1,1 +1,6 @@
-{}
+{
+  "LEGEND_ACTIVE": "senseBox aktif (< 7 Hari)",
+  "LEGEND_ACTIVE_30": "senseBox tidak aktif (> 7 Hari)",
+  "LEGEND_INACTIVE": "senseBox tidak aktif (> 30 Hari)",
+  "LEGEND_SHOWALL": "Tunjuk"
+}

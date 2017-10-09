@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Rechercher et filtrer",
+  "SAF_INTRO": "Sélectionnez les critères par lesquels vous souhaitez filtrer les stations. Quand vous changez la période et le phénomène en combinaison avec la période, un nouveau jeu de senseBox est récupéré depuis le serveur, cela peut prendre un certain temps. La recherche de senseBoxes par nom, groupe, exposition et phénomène (sans période) est instantanée.",
+  "SAF_HELP": "Cliquez sur 'Appliquer Filtre' pour appliquer vos paramètres de filtre",
+  "SAF_APPLY": "Appliquer filtre",
+  "SAF_RESET": "Réinitialiser les filtres",
+  "RESULTS": "Résultats",
+  "NO_RESULTS": "Malheureusement, aucun résultat ne correspond à vos filtres."
+}

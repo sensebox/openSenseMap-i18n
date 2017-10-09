@@ -1,1 +1,11 @@
-{}
+{
+  "NEXT": "Prossimo",
+  "PREVIOUS": "Precedente",
+  "SAVE": "Salva",
+  "CANCEL": "Cancella",
+  "CLOSESIDEBAR": "Chiudi",
+  "SETTINGS": "Impostazioni",
+  "DELETE": "Cancella",
+  "COMMON_ERROR": "Si è verificato un errore. Per favore riprova dopo.",
+  "Name": "Nome"
+}

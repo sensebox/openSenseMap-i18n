@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Télécharger les données",
+  "DOWNLOAD_DOWNLOADFROM": "Téléchargement des données depuis la station",
+  "DOWNLOAD_SELECTTIMEFRAME": "Sélectionner une période",
+  "DOWNLOAD_LAST24HOURS": "Dernières 24 heures",
+  "DOWNLOAD_LASTWEEK": "Dernière semaine",
+  "DOWNLOAD_LASTMONTH": "Dernier mois",
+  "DOWNLOAD_SELECTSENSOR": "Sélectionner un capteur",
+  "DOWNLOAD_SELECTFILEFORMAT": "Sélectionner un format de fichier",
+  "DOWNLOAD_LICENSE": "Toute donnée est sous licence <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> et libre d'utilisation.",
+  "DOWNLOAD_INTRO": "Vous pouvez télécharger les données des senseBox que vous voyez sur la carte. Déplacez ou zoomez la carte pour modifier votre sélection, puis sélectionnez une période et un phénomène que vous souhaitez télécharger. Le fichier est au format CSV, télécharger les données peut prendre un certain temps.",
+  "DOWNLOAD_WARNING": "Téléchargement des données depuis {{ count }} stations*<br/><small>* Toutes les stations peuvent ne pas avoir de données pour la période sélectionnée. Utilisez le <a ui-sref=\"explore.map.filter\">Filtre</a> pour trouver les box et les capteurs que vous souhaitez.</small>",
+  "PLEASE_WAIT_DATA": "Veuillez patienter, chargement des données...",
+  "DOWNLOAD_NODATA": "Il n'y a pas de données pour la période sélectionnée."
+}

@@ -1,1 +1,4 @@
-{}
+{
+  "INFO_MADE_BY": "Map data to oprogramowanie typu <a href=\"https://github.com/sensebox/openSenseMap\" target=\"_blank\">Open Source</a> stworzone <li class=\"fa fa-icon fa-heart\"></li> w Münster.<br><br>Mapy <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap</a><br>Wygląd mapy dzięki <a href=\"http://www.mapbox.com/\" target=\"_blank\">Mapbox</a><br>Flagi państw: <a href=\"http://www.icondrawer.com\" target=\"_blank\">Icondrawer</a><br>Dane z czujników: <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>",
+  "INFO_COPYRIGHT_NOTICES": "Prawa autorskie"
+}

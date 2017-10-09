@@ -1,1 +1,6 @@
-{}
+{
+  "LEGEND_ACTIVE": "Actieve senseBox (< 7 Dagen)",
+  "LEGEND_ACTIVE_30": "Inactieve senseBox (> 7 Dagen)",
+  "LEGEND_INACTIVE": "Inactieve senseBox (> 30 Dagen)",
+  "LEGEND_SHOWALL": "Toon"
+}

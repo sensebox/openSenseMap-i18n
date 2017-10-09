@@ -1,1 +1,12 @@
-{}
+{
+  "EXPLORE": "Искать",
+  "REGISTER": "Регистрация",
+  "CHANGE_LANG": "Изменить язык",
+  "SEARCH": "Поиск адресов",
+  "DOWNLOAD": "Скачать",
+  "FILTER": "Фильтр",
+  "SENSEBOXES": "senseBoxes",
+  "MEASUREMENTS": "измерения",
+  "INTERPOLATION": "Интерполирование",
+  "INFO": "О нас"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Скачать данные",
+  "DOWNLOAD_DOWNLOADFROM": "Загрузка данных от станции",
+  "DOWNLOAD_SELECTTIMEFRAME": "Выберите временные рамки",
+  "DOWNLOAD_LAST24HOURS": "За 24 часа",
+  "DOWNLOAD_LASTWEEK": "За неделю",
+  "DOWNLOAD_LASTMONTH": "За месяц",
+  "DOWNLOAD_SELECTSENSOR": "Выберите датчик",
+  "DOWNLOAD_SELECTFILEFORMAT": "Выберите формат файла",
+  "DOWNLOAD_LICENSE": "Все данные доступны по лицензии <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> и могут быть свободно использованы.",
+  "DOWNLOAD_INTRO": "Вы можете загрузить данные из senseBoxes, которые вы видите на карте. Перемещайте или изменяйте масштаб карты, чтобы изменить свой выбор, а затем выберите временные рамки и формат, который вы хотите скачать.  Формат файла CSV, загрузка данных может занять некоторое время.",
+  "DOWNLOAD_WARNING": "Загрузка данных из {{ count }} станций*<br/><small>* Не все станции могут иметь данные в выбранный период времени. Используйте <a ui-sref=\"explore.map.filter\">Фильтр</a> чтобы найти станции и датчики, которые вы хотите.</small>",
+  "PLEASE_WAIT_DATA": "Пожалуйста подождите, загрузка данных...",
+  "DOWNLOAD_NODATA": "Отсутствуют данные в этот период времени."  
+}

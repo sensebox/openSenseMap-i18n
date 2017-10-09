@@ -1,1 +1,10 @@
-{}
+{
+  "DATADOWNLOAD": "Pobierz dane",
+  "DOWNLOAD_DOWNLOADFROM": "Pobieranie danych ze stacji",
+  "DOWNLOAD_SELECTTIMEFRAME": "Wybierz przedział czasowy",
+  "DOWNLOAD_LAST24HOURS": "Ostatnie 24 godziny",
+  "DOWNLOAD_LASTWEEK": "Ostatni tydzień",
+  "DOWNLOAD_LASTMONTH": "Ostatni miesiąc",
+  "DOWNLOAD_SELECTSENSOR": "Wybierz czujnik",
+  "DOWNLOAD_SELECTFILEFORMAT": "Wybierz format pliku"
+}

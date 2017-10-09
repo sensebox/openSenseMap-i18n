@@ -1,1 +1,11 @@
-{}
+{
+  "NEXT": "Volgende",
+  "PREVIOUS": "Terug",
+  "SAVE": "Opslaan",
+  "CANCEL": "Annuleer",
+  "CLOSESIDEBAR": "Sluiten",
+  "SETTINGS": "Instellingen",
+  "DELETE": "Verwijder",
+  "COMMON_ERROR": "Er is een fout opgetreden, gelieve het later nog eens te proberen.",
+  "Name": "Naam"
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Data download",
+  "DOWNLOAD_DOWNLOADFROM": "Downloading dati dalla stazione",
+  "DOWNLOAD_SELECTTIMEFRAME": "Seleziona un lasso di tempo",
+  "DOWNLOAD_LAST24HOURS": "Ultime 24 ore",
+  "DOWNLOAD_LASTWEEK": "Settimana scorsa",
+  "DOWNLOAD_LASTMONTH": "Mese scorso",
+  "DOWNLOAD_SELECTSENSOR": "Seleziona un sensore",
+  "DOWNLOAD_SELECTFILEFORMAT": "Selezione un formato di file",
+  "DOWNLOAD_LICENSE": "Tutti i dati con licenza <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> sono a libero uso.",
+  "DOWNLOAD_INTRO": "Puoi scaricare i dati dalle sendBox che vedi nella mappa. Muovi o fai zoom sulla mappa per cambiare la visuale, poi seleziona il lasso di tempo e il fenomeno che vuoi scaricare. Il formato del file è CSV, lo scaricamento dei dati può richiedere del tempo.",
+  "DOWNLOAD_WARNING": "Downloading dati da {{ count }} stazioni*<br/><small>* Non tutte le stazioni possono avere dati nel periodo selezionato. Usare il <a ui-sref=\"explore.map.filter\">Filtro</a> per trovare box e sensori.</small>",
+  "PLEASE_WAIT_DATA": "Per favore aspetta, caricamento dati...",
+  "DOWNLOAD_NODATA": "Non ci sono dati nel lasso di tempo selezionato."
+}

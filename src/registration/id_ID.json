@@ -1,1 +1,13 @@
-{}
+{
+  "STEP2": "Box Saya",
+  "STEP2_DESCRIPTION": "Masukkan informasi tambahan tentang senseBox kamu. Informasi ini dapat diganti setelah mendaftar.",
+  "STEP3": "Location",
+  "STEP3_DESCRIPTION": "Klik pada peta untuk menentukan lokasi di senseBox-mu.",
+  "STEP4": "Pengaturan Perangkat Keras",
+  "STEP4_DESCRIPTION": "Pilih model senseBox kamu.",
+  "STEP5": "Konfirmasi",
+  "STEP5_DESCRIPTION": "Untuk menyelesaikan pendaftaran senseBox-mu, klik \"Selesai\" dan kamu akan menerima sebuah email dengan instruksi bagaimana memasang senseBox dan mengunggah kode kamu ke dalamnya. Jika kamu berubah pikiran, klik \"Batal\" dan kamu akan dikembalika ke halaman sebelumnya.",
+  "CUSTOMBOX": "Disini kamu dapat membuat senseBox-mu sendiri. Tambahkan sensor pada pengaturan dan juga masukan gejala (apa yang diukur?), unit dan tipe (nama komponen).<br/> Sebuah sensor suhu udara akan ditulis seperti ini:<br/> <ul> <li>Gejala: Suhu udara</li> <li>Unit: °C</li> <li>Tipe: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "Pengaturan sensor tidak selesai, mohon dicek kembali apakah kamu sudah mengisi semua kolom (gejala, unit, dan tipe)",
+  "REG_HARDWAREINCOMPLETE": "Pengaturan perangkat keras tidak selesai, mohon pilih model"
+}

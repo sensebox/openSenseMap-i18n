@@ -1,1 +1,7 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Дата начала",
+  "DATEPICKER_ENDINGDATE": "Дата окончания",
+  "DATEPICKER_CURRENTTEXT": "Сегодня",
+  "DATEPICKER_CLEARTEXT": "Очистить",
+  "DATEPICKER_CLOSETEXT": "Закрыть"
+}

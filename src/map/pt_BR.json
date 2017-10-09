@@ -1,1 +1,6 @@
-{}
+{
+  "LEGEND_ACTIVE": "senseBox ativos (< 7 dias)",
+  "LEGEND_ACTIVE_30": "senseBox inativos (> 7 dias)",
+  "LEGEND_INACTIVE": "senseBox inativos (> 30 dias)",
+  "LEGEND_SHOWALL": "Mostrar"
+}

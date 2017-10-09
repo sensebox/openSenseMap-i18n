@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Cari dan tapis",
+  "SAF_INTRO": "Pilih kriteria mengikut yang anda mahu untuk menapis stesen. Apabila anda menukar frame masa dan fenomena dalam gabungan frame masa, senseBoxes baru akan diperolehi daripada pelayan, ini mungkin akan memakan sedikit masa. Mencari senseBoxes dengan nama, kumpulan, Exposure dan fenomena (tanpa frame masa) ialah secara serta merta.",
+  "SAF_HELP": "Klik ‘Gunakan Penapis’ untuk anda gunakan tetapan tapis",
+  "SAF_APPLY": "Gunakan penapis",
+  "SAF_RESET": "Set semula penapis",
+  "RESULTS": "Keputusan",
+  "NO_RESULTS": "Malangnya, tiada Keputusan yang sama seperti penapis anda."
+}

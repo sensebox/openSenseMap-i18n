@@ -1,1 +1,7 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Data de início",
+  "DATEPICKER_ENDINGDATE": "Data de término",
+  "DATEPICKER_CURRENTTEXT": "Hoje",
+  "DATEPICKER_CLEARTEXT": "Limpar",
+  "DATEPICKER_CLOSETEXT": "Fechar"
+}

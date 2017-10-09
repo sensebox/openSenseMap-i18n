@@ -1,1 +1,14 @@
-{}
+{
+  "STEP2": "Ma box",
+  "STEP2_DESCRIPTION": "Veuillez saisir des informations supplémentaires à propos de votre senseBox. Ces informations peuvent également être modifiées après l'inscription.",
+  "STEP3": "Emplacement",
+  "STEP3_DESCRIPTION": "Cliquez sur la carte pour choisir un emplacement pour votre senseBox.",
+  "STEP4": "Configuration hardware",
+  "STEP4_DESCRIPTION": "Sélectionnez le modèle de votre senseBox.",
+  "STEP5": "Confirmer",
+  "STEP5_DESCRIPTION": "Pour finir d'enregistrer votre senseBox, cliquez sur \"Terminer\" et vous recevrez un email avec les instructions pour assembler votre senseBox et comment charger le code sur celle-ci. Si vous avez changé d'avis, cliquez sur \"Annuler\" pour être redirigé(e) vers la carte globale.",
+
+  "CUSTOMBOX": "Ici, vous pouvez configurer votre propre senseBox. Ajoutez des capteurs à votre configuration et spécifiez leur phénomène (qu'est-ce qui est mesuré ?), unité et type (nom du composant).<br/> Un capteur de température peut ressembler à ceci:<br/> <ul> <li>Phénomène: Température</li> <li>Unité: °C</li> <li>Type: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "La configuration de votre capteur est incomplète, veuillez vérifier que tous les champs soient remplis (phénomène, unité et type)",
+  "REG_HARDWAREINCOMPLETE": "La configuration de votre matériel est incomplète, veuillez sélectionner un modèle"
+}

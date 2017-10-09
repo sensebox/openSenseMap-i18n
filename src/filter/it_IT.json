@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Cerca e filtra",
+  "SAF_INTRO": "Seleziona i criteri con cui filtrare le stazioni. Quando cambi il lasso di tempo e i fenomeni relativi a quel lasso di tempo, un nuovo set di senseBoxe verrà preso dal server, questo può richiedere del tempo. Laricerca di senseBox per nome, gruppo, esposizione e fenomani (senza lasso di tempo) è istantanea.",
+  "SAF_HELP": "Clicca su 'Applica Filtro' per applicare le tue impostazioni",
+  "SAF_APPLY": "Applica Filtro",
+  "SAF_RESET": "Resetta i filtri",
+  "RESULTS": "Risultati",
+  "NO_RESULTS": "Sfortunatamente, non ci sono risultati che rispettano i tuoi filtri."
+}

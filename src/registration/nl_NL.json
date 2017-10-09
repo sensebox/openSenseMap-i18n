@@ -1,1 +1,13 @@
-{}
+{
+  "STEP2": "Mijn box", 
+  "STEP2_DESCRIPTION": "Gelieve bijkomende info over uw senseBox in te geven, deze info kan na registratie ook aangepast worden.",
+  "STEP3": "Locatie",
+  "STEP3_DESCRIPTION": "Klik op de map om een locatie voor uw senseBox te kiezen.",
+  "STEP4": "Hardware Setup",
+  "STEP4_DESCRIPTION": "Selecteer uw senseBox model.",
+  "STEP5": "Bevestig",
+  "STEP5_DESCRIPTION": "Om uw registratie vanb uw senseBox te voltooïen, klikt u op \"Voltooi\" en zal u een email met instructies ontvangen. Deze instructies leggen uit hoe u een senseBox assembleert en hoe u zelf code kan uploaden naar de senseBox. Indien u van gedacht verandert, klik \"Annuleer\" en u zal teruggestuurd worden naar de overzichtsmap.",
+  "CUSTOMBOX": "Hier kan u uw eigen senseBox opzetten. Sensors toevoegen aan uw opstelling en zijn fenomeen (wat wordt er gemeten?), unit en type (componentnaam) opgeven.<br/> Een temperatuur sensor kan er zo uitzien:<br/> <ul> <li>Fenomeen: Temperatuur</li> <li>Unit: °C</li> <li>Type: LM35</li> </ul>",
+  "CUSTOMBOX_SENSORINCOMPLETE": "Uw sensor setup is niet compleet, gelieve na te kijken of u all velden heeft ingevuld (fenomeen, unit en type)",
+  "REG_HARDWAREINCOMPLETE": "Uw hardware setup is niet compleet, gelieve een model te selecteren"
+}

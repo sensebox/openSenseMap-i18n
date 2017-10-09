@@ -1,1 +1,7 @@
-{}
+{
+  "DATEPICKER_STARTINGDATE": "Tarikh permulaan",
+  "DATEPICKER_ENDINGDATE": "Tarikh berakhir",
+  "DATEPICKER_CURRENTTEXT": "Harini",
+  "DATEPICKER_CLEARTEXT": "Kosongkan",
+  "DATEPICKER_CLOSETEXT": "Tutup"
+}

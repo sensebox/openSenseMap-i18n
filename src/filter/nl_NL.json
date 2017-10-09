@@ -1,1 +1,9 @@
-{}
+{
+  "SEARCH_AND_FILTER": "Zoeken en filter",
+  "SAF_INTRO": "Selecteer criterie waarop u de stations wil filteren. Wanneer u het tijdsframe en fenomeen in combinatie met het tijdsframe, een nieuwe set senseBoxes zal verkregen worden van de server, dit kan even duren. Zoeken naar senseBoxes op naam, groep, blootstelling en fenomeen (zonder tijdsframe) is direct.",
+  "SAF_HELP": "Klik 'Filter toepassen' om uw filterinstellingen toe te passen",
+  "SAF_APPLY": "Filter toepassen",
+  "SAF_RESET": "Reset filters",
+  "RESULTS": "Resultaten",
+  "NO_RESULTS": "Er werden geen resultaten gevonden die aan uw filtercriteria voldoen."
+}

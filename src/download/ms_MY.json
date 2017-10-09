@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Muat turun data",
+  "DOWNLOAD_DOWNLOADFROM": "Memuat turun data daripada stesen",
+  "DOWNLOAD_SELECTTIMEFRAME": "Pilih frame masa",
+  "DOWNLOAD_LAST24HOURS": "24 jam lepas",
+  "DOWNLOAD_LASTWEEK": "Minggu lepas",
+  "DOWNLOAD_LASTMONTH": "Bulan lepas",
+  "DOWNLOAD_SELECTSENSOR": "Pilih pengesan",
+  "DOWNLOAD_SELECTFILEFORMAT": "Pilih format fail",
+  "DOWNLOAD_LICENSE": "Semua data dibawah lesen <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> dan bebas untuk diguna.",
+  "DOWNLOAD_INTRO": "Anda boleh memuat turun data daripada senseBoxes yang anda lihat didalam peta. Gerak dan zum pada peta untuk memilih, kemudian pilih frame masa dah fenomena yang anda mahu muat turun. Format fail ini ialah CSV. memuat turun data akan memakan masa.",
+  "DOWNLOAD_WARNING": "Memuat turun data dari {{ count }} stesen*<br/><small>* Tidak semua stesen akan ada data dalam tempoh masa yang telah dipilih. Guna  <a ui-sref=\"explore.map.filter\">Tapis</a> untuk mencari kotak-kotak dan pengesan yang anda mahu.</small>",
+  "PLEASE_WAIT_DATA": "Sila tunggu, memuat data…",
+  "DOWNLOAD_NODATA": "Tiada data dalam frame masa yang dipilih."
+}

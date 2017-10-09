@@ -1,1 +1,5 @@
-{}
+{
+  "INFO_MADE_BY": "Данные карты <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a><br>Карта от <a href=\"http://www.mapbox.com/\" target=\"_blank\">Mapbox</a><br>Флаги стран by <a href=\"http://www.icondrawer.com\" target=\"_blank\">Icondrawer</a><br>Данные датчиков: <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>",
+  "INFO_COPYRIGHT_NOTICES": "Уведомление об авторских правах",
+  "INFO_ABOUT": "openSenseMap платформа для открытых данных счётчиков с которыми любой может взаимодейстовать.<br/> Этот проект начался в 2015 в GI@School лаборатории Института геоинформатики в Мюнстере, где он используется вместе с <a href=\"http://www.sensebox.de/de/products/\" target=\"_blank\">senseBox</a> для обучения учеников и граждан, а также предлагает им платформу для обмена данными датчиков.<br/><br/> <a href=\"https://github.com/sensebox/openSenseMap\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> Этот сайт</a> использует <a href=\"https://github.com/sensebox/openSenseMap-API\" target=\"_blank\"><i class=\"fa fa-github\" aria-hidden=\"true\"></i> API</a> с открытым исходным кодом, предложения по улучшению всегда приветствуются.<br/>"
+}

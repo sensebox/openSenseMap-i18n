@@ -1,1 +1,15 @@
-{}
+{
+  "DATADOWNLOAD": "Unduh data",
+  "DOWNLOAD_DOWNLOADFROM": "Mengunduh data dari station",
+  "DOWNLOAD_SELECTTIMEFRAME": "Pilih jangka waktu",
+  "DOWNLOAD_LAST24HOURS": "24 jam terakhir",
+  "DOWNLOAD_LASTWEEK": "Satu minggu terakhir",
+  "DOWNLOAD_LASTMONTH": "Satu bulan terakhir",
+  "DOWNLOAD_SELECTSENSOR": "Pilih sensor",
+  "DOWNLOAD_SELECTFILEFORMAT": "Pilih format file",
+  "DOWNLOAD_LICENSE": "Semua data dilisensi oleh <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a> dan gratis untuk digunakan.",
+  "DOWNLOAD_INTRO": "Kamu dapat mengunduh data dari senseBox yang kamu lihat di peta. Gerakkan atau zoom peta untuk mengubah pilihanmu, kemudian pilih jangka waktu dan gejala yang ingin kamu unduh. Format file unduhan adalah CSV, pengunduhan data akan memakan waktu.",
+  "DOWNLOAD_WARNING": "Mengunduh data dari {{ count }} station*<br/><small>* Tidak semua station memiliki data di jangka waktu yang dipilih. Gunakan <a ui-sref=\"explore.map.filter\">Filter</a> untuk mencari box dan sensor yang kamu inginkan.</small>",
+  "PLEASE_WAIT_DATA": "Harap tunggu sebentar, menyiapkan data...",
+  "DOWNLOAD_NODATA": "Tidak ada data dari jangka waktu yang dipilih."
+}
