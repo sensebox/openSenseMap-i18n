@@ -72,7 +72,7 @@
   "CHART_NODATA": "Dieser Sensor hat keine Messdaten",
   "BOX_BOXDETAILSINFO": "Hier stehen weitere Informationen zu dieser senseBox, der Besitzer dieser Station hat jedoch nichts hinterlegt.",
 
-  "SENSEBOX_NOT_FOUND": "senseBox nicht gefunde",
+  "SENSEBOX_NOT_FOUND": "senseBox nicht gefunden",
 
   "SETTINGS_SELECTIMAGE": "Bild auswählen",
   "SETTINGS_IMAGE_RESTRICTIONS": "Nur PNG, JPG, JPEG Dateien bis 500 KB Dateigröße sind erlaubt",
