@@ -19,6 +19,8 @@
   },
   "scripts": {
     "commit": "git-cz",
+    "build": "gulp",
+    "test": "npm run build && gulp validate",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "config": {
