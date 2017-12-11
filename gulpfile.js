@@ -29,12 +29,12 @@ function getFiles (dir, files_){
 
 // Clean up tmp folder
 gulp.task('clean', function () {
-  return gulp.src('.tmp')
+  return gulp.src('dist')
     .pipe(clean());
 });
 
 // Merges all language files from subdirectories
-gulp.task('merge', function(){
+gulp.task('merge', ['clean'], function(){
   var files = getFiles('src');
 
   return files.map(function (file) {
@@ -42,41 +42,19 @@ gulp.task('merge', function(){
       .pipe(merge({
         fileName: `${file}`
       }))
-      .pipe(gulp.dest('.tmp/'));
+      .pipe(jsonminify())
+      .pipe(gulp.dest('dist'));
   });
 });
 
 // Lints merged files and checks if the required keys
 // are available.
-gulp.task('validate', function () {
-  return gulp.src(['.tmp/*.json'])
+gulp.task('validate-master', function () {
+  return gulp.src(['dist/en_US.json', 'dist/de_DE.json'])
     .pipe(jsonschema('src/schema.json', {
       banUnknownProperties: true
     }));
 });
 
-gulp.task('minify', ['validate'], function () {
-  return gulp.src(['.tmp/de_DE.json', '.tmp/en_US.json'])
-    .pipe(jsonminify())
-    .pipe(gulp.dest('dist'));
-});
-
-gulp.task('coverage', function () {
-  function jsoncoverage (options) {
-    return through.obj(function(file, encoding, callback) {
-      let keysMaster = Object.keys(JSON.parse(fs.readFileSync(options.src, "utf8"))).length;
-      let keysSlave = Object.keys(JSON.parse(file.contents.toString("utf8"))).length;
-
-      let coverage = keysSlave / keysMaster * 100;
-      let filename = path.basename(file.path)
-      gutil.log(`Coverage for ${gutil.colors.red(filename)}:`, gutil.colors.magenta(coverage.toFixed(2)), '%', `Translated keys: ${keysSlave}/${keysMaster}`);
-
-      callback(null, file);
-    });
-  }
-
-  return gulp.src(['.tmp/*.json'])
-    .pipe(jsoncoverage({src:'.tmp/en_US.json'}));
-});
-
-gulp.task('build', ['merge', 'minify' ]);
+gulp.task('validate', ['validate-master']);
+gulp.task('default', ['merge']);

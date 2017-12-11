@@ -1,17 +1,32 @@
 {
   "name": "@sensebox/opensensemap-i18n",
-  "version": "0.0.0",
+  "version": "0.0.0-development",
   "description": "Messages and its translations used by openSenseMap and openSenseMap-API",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-jsonminify": "^1.0.0",
     "gulp-merge-json": "^1.2.0",
     "gulp-util": "^3.0.8",
-    "through2": "^2.0.3"
+    "through2": "^2.0.3",
+    "semantic-release": "^8.2.0"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sensebox/openSenseMap-i18n.git"
   }
 }
