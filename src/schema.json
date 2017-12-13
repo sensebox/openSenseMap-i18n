@@ -116,6 +116,7 @@
     "MEASUREMENTS": {"type": "string"},
     "INTERPOLATION": {"type": "string"},
     "INFO": {"type": "string"},
+    "INFO_TITLE": {"type": "string"},
     "INFO_ABOUT": {"type": "string"},
     "INFO_MADE_BY": {"type": "string"},
     "INFO_COPYRIGHT_NOTICES": {"type": "string"},
@@ -303,6 +304,7 @@
       "INFO_COPYRIGHT_NOTICES",
       "DOWNLOAD_LICENSE",
   
+      "INFO_TITLE",
       "INFO_ABOUT",
       "SENSEBOX_NOT_FOUND",
       "GROUP",
