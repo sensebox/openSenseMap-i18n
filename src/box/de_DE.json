@@ -81,5 +81,18 @@
   "NOTIFICATION_BOX_UPDATE_SUCCESS": "senseBox wurde erfolgreich aktualisiert - <a href=\"explore/{{boxId}}\">anzeigen</a>",
   "NOTIFICATION_BOX_UPDATE_FAILED": "senseBox konnte nicht aktualisiert werden",
   "NOTIFICATION_BOX_DELETE_SUCCESS": "senseBox wurde gelöscht - <a href=\"account\">Dashboard</a>",
-  "NOTIFICATION_BOX_DELETE_FAILED": "senseBox konnte nicht gelöscht werden"
+  "NOTIFICATION_BOX_DELETE_FAILED": "senseBox konnte nicht gelöscht werden",
+  
+  "NO_MEASUREMENT": "nichts gemessen",
+
+  "DASHBOARD_DATAUPLOAD": "Daten-Upload",
+  "DATAUPLOAD_TITLE": "Manueller Daten-Upload",
+  "DATAUPLOAD_INFO": "Hier kannst du Messungen zu deiner senseBox manuell hochladen. Dies kann sinnvoll sein, wenn die senseBox die Daten nur auf eine SD-Karte loggt da kein direkets Kommunikationsmittel verfügbar ist. Lade entweder eine Datei hoch oder kopiere die Daten in das Textfeld. Die verfügbaren Datenformate sind <a href=\"https://docs.opensensemap.org/#api-Measurements-postNewMeasurements\" target=\"_blank\">hier</a> beschrieben.",
+  "DATAUPLOAD_SELECTFILE": "Wähle eine Datei",
+  "DATAUPLOAD_FORMAT": "Datenformat",
+  "DATAUPLOAD_DATA": "Messungsdaten",
+  "DATAUPLOAD_SUCCESS": "Messungen erfolgreich gespeichert!",
+  "DATAUPLOAD_ERR_FORMAT": "Ungültiges Datenformat",
+  "DATAUPLOAD_ERR_BadRequest": "Ungültige Sensor-ID",
+  "DATAUPLOAD_ERR_UnprocessableEntity": "Messung(en) konnten nicht gelesen werden"
 }

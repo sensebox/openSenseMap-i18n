@@ -130,9 +130,12 @@
     "INTERP_NUMTIMESTEPS": {"type": "string"},
     "INTERP_TIMESTEP": {"type": "string"},
     "LEGEND_ACTIVE": {"type": "string"},
-    "LEGEND_ACTIVE_30": {"type": "string"},
+    "LEGEND_ACTIVE_DAYS": {"type": "string"},
+    "LEGEND_INACTIVE_DAYS": {"type": "string"},
     "LEGEND_INACTIVE": {"type": "string"},
     "LEGEND_SHOWALL": {"type": "string"},
+    "LEGEND_STATIONARY": {"type": "string"},
+    "LEGEND_MOBILE": {"type": "string"},
     "NEXT": {"type": "string"},
     "PREVIOUS": {"type": "string"},
     "SAVE": {"type": "string"},
@@ -204,7 +207,18 @@
     "NOTIFICATION_USER_ACCOUNT_DELETE_FAILED": {"type": "string"},
     "NOTIFICATION_PASSWORD_NOT_THE_SAME": {"type": "string"},
     "NOTIFICATION_PASSWORD_UPDATE_SUCCESS": {"type": "string"},
-    "NOTIFICATION_PASSWORD_UPDATE_FAILED": {"type": "string"}
+    "NOTIFICATION_PASSWORD_UPDATE_FAILED": {"type": "string"},
+    "DASHBOARD_DATAUPLOAD": {"type": "string"},
+    "DATAUPLOAD_TITLE": {"type": "string"},
+    "DATAUPLOAD_INFO": {"type": "string"},
+    "DATAUPLOAD_SELECTFILE": {"type": "string"},
+    "DATAUPLOAD_FORMAT": {"type": "string"},
+    "DATAUPLOAD_DATA": {"type": "string"},
+    "DATAUPLOAD_SUCCESS": {"type": "string"},
+    "DATAUPLOAD_ERR_FORMAT": {"type": "string"},
+    "DATAUPLOAD_ERR_BadRequest": {"type": "string"},
+    "DATAUPLOAD_ERR_UnprocessableEntity": {"type": "string"},
+    "NO_MEASUREMENT": {"type": "string"}
   },
   "required":
     [
@@ -341,9 +355,12 @@
       "INTERP_TIMESTEP",
   
       "LEGEND_ACTIVE",
-      "LEGEND_ACTIVE_30",
+      "LEGEND_ACTIVE_DAYS",
+      "LEGEND_INACTIVE_DAYS",
       "LEGEND_INACTIVE",
       "LEGEND_SHOWALL",
+      "LEGEND_STATIONARY",
+      "LEGEND_MOBILE",
   
       "SENSEBOXES",
       "MEASUREMENTS",
@@ -421,6 +438,18 @@
       "BADGE_PLACEHOLDER_PREFIX",
       "BADGE_PLACEHOLDER_SUFFIX",
       "TOOLTIP_MINIMIZE",
-      "TOOLTIP_MAXIMIZE"
+      "TOOLTIP_MAXIMIZE",
+
+      "DASHBOARD_DATAUPLOAD",
+      "DATAUPLOAD_TITLE",
+      "DATAUPLOAD_INFO",
+      "DATAUPLOAD_SELECTFILE",
+      "DATAUPLOAD_FORMAT",
+      "DATAUPLOAD_DATA",
+      "DATAUPLOAD_SUCCESS",
+      "DATAUPLOAD_ERR_FORMAT",
+      "DATAUPLOAD_ERR_BadRequest",
+      "DATAUPLOAD_ERR_UnprocessableEntity",
+      "NO_MEASUREMENT"
   ]
 }
