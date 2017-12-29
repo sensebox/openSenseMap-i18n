@@ -148,6 +148,7 @@
     "UNDO": {"type": "string"},
     "COMMON_ERROR": {"type": "string"},
     "HELP_SECTION": {"type": "string"},
+    "FORM_INVALID": {"type": "string"},
     "Name": {"type": "string"},
     "STEP0": {"type": "string"},
     "STEP0_DESCRIPTION": {"type": "string"},
@@ -340,6 +341,7 @@
       "DOWNLOAD_NODATA",
       "COMMON_ERROR",
       "HELP_SECTION",
+      "FORM_INVALID",
   
       "SEARCH_AND_FILTER",
       "SAF_INTRO",
