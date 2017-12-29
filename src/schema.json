@@ -4,6 +4,7 @@
   "properties": {
     "ARCHIVE": {"type": "string"},
     "CENTER": {"type": "string"},
+    "SHOW": {"type": "string"},
     "BOX_LATITUDE": {"type": "string"},
     "BOX_LONGITUDE": {"type": "string"},
     "BOX_HEIGHT": {"type": "string"},
@@ -267,6 +268,7 @@
       "UNDO",
       "ARCHIVE",
       "CENTER",
+      "SHOW",
       "SETTINGS_SELECTIMAGE",
       "SETTINGS_IMAGE_RESTRICTIONS",
       "LAST_MEASUREMENT_FROM",
