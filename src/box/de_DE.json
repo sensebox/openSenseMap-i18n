@@ -51,6 +51,7 @@
   "EDIT_MQTTOPTIONS": "MQTT",
   "EDIT_MQTTOPTIONSINFO": "",
   "EDIT_CHANGESENSORS": "Sensoren",
+  "EDIT_CHANGESENSORS_DELETE_SENSOR": "Dieser Sensor wird beim speichern gelöscht.",
   "EDIT_CHANGESENSORSINFO": "Daten gelöschter Sensoren werden gelöscht. Wenn du neue Sensoren hinzugefügt hast, solltest du dir dein neues senseBox Script herunterladen (siehe 'Skript'-Tab).",
   "EDIT_IMAGE": "Bild hochladen",
   "EDIT_IMAGEINFO": "Wenn du ein neues Bild hochlädst wird das alte ersetzt.",
