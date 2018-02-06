@@ -11,5 +11,7 @@
   "COMMON_ERROR": "An error occured. Please try again later.",
   "HELP_SECTION": "Help section",
   "FORM_INVALID": "Please fill out all required fields.",
-  "Name": "Name"
+  "Name": "Name",
+  "CREATED_AT": "Created at",
+  "VALUE": "Value"
 }

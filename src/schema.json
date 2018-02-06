@@ -223,7 +223,9 @@
     "DATAUPLOAD_ERR_FORMAT": {"type": "string"},
     "DATAUPLOAD_ERR_BadRequest": {"type": "string"},
     "DATAUPLOAD_ERR_UnprocessableEntity": {"type": "string"},
-    "NO_MEASUREMENT": {"type": "string"}
+    "NO_MEASUREMENT": {"type": "string"},
+    "VALUE": {"type": "string"},
+    "CREATED_AT": {"type": "string"}
   },
   "required":
     [
@@ -460,6 +462,8 @@
       "DATAUPLOAD_ERR_FORMAT",
       "DATAUPLOAD_ERR_BadRequest",
       "DATAUPLOAD_ERR_UnprocessableEntity",
-      "NO_MEASUREMENT"
+      "NO_MEASUREMENT",
+      "VALUE",
+      "CREATED_AT"
   ]
 }

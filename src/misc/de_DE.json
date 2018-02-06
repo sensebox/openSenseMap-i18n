@@ -11,5 +11,7 @@
   "COMMON_ERROR": "Es ist ein Fehler aufgetreten. Bitte versuch es später nochmal.",
   "HELP_SECTION": "Hilfebereich",
   "FORM_INVALID": "Bitte alle Felder ausfüllen.",
-  "Name": "Name"
+  "Name": "Name",
+  "CREATED_AT": "Erstellt am",
+  "VALUE": "Messwert"
 }
