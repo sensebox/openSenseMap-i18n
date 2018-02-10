@@ -225,7 +225,24 @@
     "DATAUPLOAD_ERR_UnprocessableEntity": {"type": "string"},
     "NO_MEASUREMENT": {"type": "string"},
     "VALUE": {"type": "string"},
-    "CREATED_AT": {"type": "string"}
+    "CREATED_AT": {"type": "string"},
+    "MEAN": {"type": "string"},
+    "RAW": {"type": "string"},
+    "MINUTE_AVERAGE": {"type": "string"},
+    "HOURLY_AVERAGE": {"type": "string"},
+    "DAILY_AVERAGE": {"type": "string"},
+    "ARITHMETIC_MEAN": {"type":"string"},
+    "HARMONIC_MEAN": {"type":"string"},
+    "GEOMETRIC_MEAN": {"type":"string"},
+    "MIN": {"type":"string"},
+    "MAX": {"type":"string"},
+    "MODE": {"type":"string"},
+    "MEDIAN": {"type":"string"},
+    "VARIANCE": {"type":"string"},
+    "ROOT_MEAN_SQUARE": {"type":"string"},
+    "STANDARD_DEVIATION": {"type":"string"},
+    "SUM": {"type":"string"},
+    "COLUMNS": {"type":"string"}
   },
   "required":
     [
@@ -464,6 +481,23 @@
       "DATAUPLOAD_ERR_UnprocessableEntity",
       "NO_MEASUREMENT",
       "VALUE",
-      "CREATED_AT"
+      "CREATED_AT",
+      "MEAN",
+      "RAW",
+      "MINUTE_AVERAGE",
+      "HOURLY_AVERAGE",
+      "DAILY_AVERAGE",
+      "ARITHMETIC_MEAN",
+      "HARMONIC_MEAN",
+      "GEOMETRIC_MEAN",
+      "MIN",
+      "MAX",
+      "MODE",
+      "MEDIAN",
+      "VARIANCE",
+      "ROOT_MEAN_SQUARE",
+      "STANDARD_DEVIATION",
+      "SUM",
+      "COLUMNS"
   ]
 }

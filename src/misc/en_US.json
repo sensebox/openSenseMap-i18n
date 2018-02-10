@@ -13,5 +13,22 @@
   "FORM_INVALID": "Please fill out all required fields.",
   "Name": "Name",
   "CREATED_AT": "Created at",
-  "VALUE": "Value"
+  "VALUE": "Value",
+  "MEAN": "Mean values",
+  "RAW": "no averages (raw values)",
+  "MINUTE_AVERAGE": "minute average",
+  "HOURLY_AVERAGE": "hourly average",
+  "DAILY_AVERAGE": "daily average",
+  "ARITHMETIC_MEAN":"arithmetic mean",
+  "HARMONIC_MEAN":"harmonic mean",
+  "GEOMETRIC_MEAN":"geometric mean",
+  "MIN":"minimum",
+  "MAX":"maximum",
+  "MODE":"mode",
+  "MEDIAN":"median",
+  "VARIANCE":"variance",
+  "ROOT_MEAN_SQUARE":"root mean square",
+  "STANDARD_DEVIATION":"standard deviation",
+  "SUM":"sum",
+  "COLUMNS": "Columns"
 }

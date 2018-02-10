@@ -13,5 +13,22 @@
   "FORM_INVALID": "Bitte alle Felder ausfüllen.",
   "Name": "Name",
   "CREATED_AT": "Erstellt am",
-  "VALUE": "Messwert"
+  "VALUE": "Messwert",
+  "MEAN": "Mittelwerte",
+  "RAW": "keine Mittelwerte (Rohdaten)",
+  "MINUTE_AVERAGE": "Minutenmittel",
+  "HOURLY_AVERAGE": "Stundenmittel",
+  "DAILY_AVERAGE": "Tagesmittel",
+  "ARITHMETIC_MEAN":"Arithmetisches Mittel",
+  "HARMONIC_MEAN":"Harmonisches Mittel",
+  "GEOMETRIC_MEAN":"Geometrisches Mittel",
+  "MIN":"Minimum",
+  "MAX":"Maximum",
+  "MODE":"modues",
+  "MEDIAN":"Median",
+  "VARIANCE":"Varianz",
+  "ROOT_MEAN_SQUARE":"Quadratmittel (RMS)",
+  "STANDARD_DEVIATION":"Standardabweichung",
+  "SUM":"Summe",
+  "COLUMNS":"Spalten"
 }
