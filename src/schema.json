@@ -198,6 +198,7 @@
     "ACCOUNT_DELETE": {"type": "string"},
     "ACCOUNT_DELETE_INFO": {"type": "string"},
     "ACCOUNT_DELETE_ACTION": {"type": "string"},
+    "ACCOUNT_CREDENTIALS_INVALID": {"type": "string"},
     "PLEASE_SPECIFY_FIRSTNAME": {"type": "string"},
     "BACK_TO_DASHBOARD": {"type": "string"},
     "EDIT_IMAGETOBIG": {"type": "string"},
@@ -328,7 +329,7 @@
       "INFO_MADE_BY",
       "INFO_COPYRIGHT_NOTICES",
       "DOWNLOAD_LICENSE",
-  
+
       "INFO_TITLE",
       "INFO_ABOUT",
       "SENSEBOX_NOT_FOUND",
@@ -363,7 +364,7 @@
       "COMMON_ERROR",
       "HELP_SECTION",
       "FORM_INVALID",
-  
+
       "SEARCH_AND_FILTER",
       "SAF_INTRO",
       "SAF_HELP",
@@ -371,7 +372,7 @@
       "SAF_RESET",
       "RESULTS",
       "NO_RESULTS",
-  
+
       "INTERP_INTRO",
       "INTERP_TIMESTAMPBEGIN",
       "INTERP_TIMESTAMPEND",
@@ -382,7 +383,7 @@
       "INTERP_IDW_P",
       "INTERP_NUMTIMESTEPS",
       "INTERP_TIMESTEP",
-  
+
       "LEGEND_ACTIVE",
       "LEGEND_ACTIVE_DAYS",
       "LEGEND_INACTIVE_DAYS",
@@ -390,12 +391,12 @@
       "LEGEND_SHOWALL",
       "LEGEND_STATIONARY",
       "LEGEND_MOBILE",
-  
+
       "SENSEBOXES",
       "MEASUREMENTS",
       "INTERPOLATION",
       "INFO",
-  
+
       "CHART_NODATA",
       "BOX_BOXDETAILSINFO",
       "CUSTOMBOX",
@@ -405,7 +406,7 @@
       "BOX_LONGITUDE",
       "BOX_HEIGHT",
       "BOX_POSITION_RESET",
-  
+
       "ACCOUNT_HEADING",
       "ACCOUNT_HEADING_RECOVER_PASSWORD",
       "ACCOUNT_TITLE",
@@ -433,7 +434,8 @@
       "ACCOUNT_DELETE",
       "ACCOUNT_DELETE_INFO",
       "ACCOUNT_DELETE_ACTION",
-  
+      "ACCOUNT_CREDENTIALS_INVALID",
+
       "TTN_DESCRIPTION",
       "TTN_PROFILE",
       "TTN_APPID",
@@ -441,7 +443,7 @@
       "TTN_DECODEOPTIONS",
       "TTN_INVALID_DECODEOPTS",
       "TTN_PORT",
-  
+
       "NOTIFICATION_BOX_UPDATE_SUCCESS",
       "NOTIFICATION_BOX_UPDATE_FAILED",
       "NOTIFICATION_BOX_DELETE_SUCCESS",
@@ -458,11 +460,11 @@
       "REGISTERED_BOXES",
       "REGISTERED_BOXES_INFO",
       "DOCUMENTATION",
-  
+
       "EXTENSIONS_FINE_PARTICULATE_MATTER",
       "CREATE_NEW_SENSEBOX",
       "CREATE_NEW_SENSEBOX_INFO",
-  
+
       "CHART_TOOLTIP_PLACEHOLDER",
       "BADGE_PLACEHOLDER_PREFIX",
       "BADGE_PLACEHOLDER_SUFFIX",
