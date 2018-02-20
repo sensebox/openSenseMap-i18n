@@ -32,5 +32,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sensebox/openSenseMap-i18n.git"
-  }
+  },
+  "files": [
+    "index.js",
+    "dist",
+    "src/**/en_US.json"
+  ]
 }
