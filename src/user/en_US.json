@@ -21,9 +21,12 @@
   "ACCOUNT_SIGN_UP": "Sign up",
   "ACCOUNT_USERNAME": "Mail, full name or nickname",
   "ACCOUNT_REGISTER_USERNAME": "Full name or nickname",
-  
+
+  "ACCOUNT_CREDENTIALS_INVALID": "User and/or password is not valid!",
+  "ACCOUNT_CREDENTIALS_INVALID_API": "User and/or password invalid",
+
   "ACCOUNT_PASSWORD_FORGOT_IT": "Forgot it",
-  
+
   "ACCOUNT_SEND_RESET_INSTRUCTION": "Send reset instruction",
   "ACCOUNT_DELETE": "Delete account",
   "ACCOUNT_DELETE_INFO": "If you delete your account, all your senseBoxes and measurements will be deleted.",

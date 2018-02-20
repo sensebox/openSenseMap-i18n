@@ -3,7 +3,16 @@
 Messages and translations used in openSenseMap and openSenseMap-API
 
 ## Consuming these strings
+
+### Static frontend project
 - TODO
+
+### Node.js project
+
+```js
+const i18n = require('@sensebox/openSenseMap-i18n');
+const { ACCOUNT_CREDENTIALS_INVALID, NOTIFICATION_USER_UPDATE_FAILED } = i18n('ACCOUNT_CREDENTIALS_INVALID', 'user.NOTIFICATION_USER_UPDATE_FAILED');
+```
 
 ## Structure of `src/`
 

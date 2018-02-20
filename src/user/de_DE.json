@@ -26,6 +26,7 @@
   "ACCOUNT_DELETE": "Benutzerkonto löschen",
   "ACCOUNT_DELETE_INFO": "Wenn du dein Benutzerkonto löscht, werden alle senseBoxen und Messungen gelöscht.",
   "ACCOUNT_DELETE_ACTION": "Um dein Benutzerkonto zu löschen, tippe deinen aktuelles Passwort ein.",
+  "ACCOUNT_CREDENTIALS_INVALID": "Unbekannter Benutzer oder falsches Passwort.",
 
   "PLEASE_SPECIFY_FIRSTNAME": "Bitte gib deinen Vornamen an",
 
