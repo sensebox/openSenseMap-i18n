@@ -91,6 +91,7 @@
     "SAF_HELP": {"type": "string"},
     "SAF_APPLY": {"type": "string"},
     "SAF_RESET": {"type": "string"},
+    "SAF_LIVE_SEARCH": {"type": "string"},
     "RESULTS": {"type": "string"},
     "NO_RESULTS": {"type": "string"},
     "FILTER_TIMEFRAME": {"type": "string"},
@@ -369,6 +370,7 @@
       "SAF_HELP",
       "SAF_APPLY",
       "SAF_RESET",
+      "SAF_LIVE_SEARCH",
       "RESULTS",
       "NO_RESULTS",
   
