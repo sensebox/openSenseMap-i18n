@@ -14,7 +14,7 @@
   "Name": "Name",
   "CREATED_AT": "Created at",
   "VALUE": "Value",
-  "MEAN": "Mean values",
+  "MEAN": "Aggregate to...",
   "RAW": "no averages (raw values)",
   "MINUTE_AVERAGE": "minute average",
   "HOURLY_AVERAGE": "hourly average",

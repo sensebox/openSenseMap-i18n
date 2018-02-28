@@ -14,7 +14,7 @@
   "Name": "Name",
   "CREATED_AT": "Erstellt am",
   "VALUE": "Messwert",
-  "MEAN": "Mittelwerte",
+  "MEAN": "Gruppieren nach...",
   "RAW": "keine Mittelwerte (Rohdaten)",
   "MINUTE_AVERAGE": "Minutenmittel",
   "HOURLY_AVERAGE": "Stundenmittel",
