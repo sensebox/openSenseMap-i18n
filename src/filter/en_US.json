@@ -7,5 +7,6 @@
   "SAF_LIVE_SEARCH": "The live search filters the results in the map.",
   "RESULTS": "Results",
   "NO_RESULTS": "Unfortunately, there were no results matching your filters.",
-  "FILTER_TIMEFRAME": "Measuring time frame"
+  "FILTER_TIMEFRAME": "Measuring time frame",
+  "SAF_REFRESH_LIVE_FILTER": "The measuring time frame changed. Please click refresh to apply live filter settings."
 }

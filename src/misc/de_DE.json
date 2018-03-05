@@ -30,5 +30,7 @@
   "ROOT_MEAN_SQUARE":"Quadratmittel (RMS)",
   "STANDARD_DEVIATION":"Standardabweichung",
   "SUM":"Summe",
-  "COLUMNS":"Spalten"
+  "COLUMNS":"Spalten",
+  "REFRESH": "Aktualisieren",
+  "PLEASE_WAIT": "Bitte warten"
 }

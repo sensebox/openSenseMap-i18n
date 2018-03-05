@@ -30,5 +30,7 @@
   "ROOT_MEAN_SQUARE":"root mean square",
   "STANDARD_DEVIATION":"standard deviation",
   "SUM":"sum",
-  "COLUMNS": "Columns"
+  "COLUMNS": "Columns",
+  "REFRESH": "Refresh",
+  "PLEASE_WAIT": "Please wait"
 }

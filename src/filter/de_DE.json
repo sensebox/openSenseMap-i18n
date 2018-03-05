@@ -7,5 +7,6 @@
   "SAF_LIVE_SEARCH": "Die Live-Suche bezieht sich auf die Ergebnisse in der Karte.",
   "RESULTS": "Ergebnisse",
   "NO_RESULTS": "Es wurden leider keine Boxen mit diesen Filtereinstellungen gefunden.",
-  "FILTER_TIMEFRAME": "Messungs-Zeitraum"
+  "FILTER_TIMEFRAME": "Messungs-Zeitraum",
+  "SAF_REFRESH_LIVE_FILTER": "Der Messungs-Zeitraum hat sich geändert. Um die Live-Filter Einstellungen anzuwenden, bitte aktualisieren."
 }

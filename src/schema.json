@@ -92,6 +92,7 @@
     "SAF_APPLY": {"type": "string"},
     "SAF_RESET": {"type": "string"},
     "SAF_LIVE_SEARCH": {"type": "string"},
+    "SAF_REFRESH_LIVE_FILTER": {"type": "string"},
     "RESULTS": {"type": "string"},
     "NO_RESULTS": {"type": "string"},
     "FILTER_TIMEFRAME": {"type": "string"},
@@ -243,7 +244,9 @@
     "ROOT_MEAN_SQUARE": {"type":"string"},
     "STANDARD_DEVIATION": {"type":"string"},
     "SUM": {"type":"string"},
-    "COLUMNS": {"type":"string"}
+    "COLUMNS": {"type":"string"},
+    "REFRESH": {"type": "string"},
+    "PLEASE_WAIT": {"type": "string"}
   },
   "required":
     [
@@ -371,6 +374,7 @@
       "SAF_APPLY",
       "SAF_RESET",
       "SAF_LIVE_SEARCH",
+      "SAF_REFRESH_LIVE_FILTER",
       "RESULTS",
       "NO_RESULTS",
   
@@ -500,6 +504,8 @@
       "ROOT_MEAN_SQUARE",
       "STANDARD_DEVIATION",
       "SUM",
-      "COLUMNS"
+      "COLUMNS",
+      "REFRESH",
+      "PLEASE_WAIT"
   ]
 }
