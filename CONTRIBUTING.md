@@ -52,6 +52,14 @@ Find the translation you want to change and change it.
 2. Add the new key to the `required` array.
 3. Finally add the new `key` and `translation` to the according translation file.
 
+#### Adding a new language
+
+1. Create new language files inside the component directories
+2. Add new language to `validate-slaves` task in gulpfile.
+    ```js
+    gulp.src(['dist/new_language_key.json'])
+    ```
+
 ### Build a new version locally
 
 To build a new version locally, run
