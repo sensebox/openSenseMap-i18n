@@ -55,5 +55,12 @@ gulp.task('validate-master', function () {
     }));
 });
 
-gulp.task('validate', ['validate-master']);
+gulp.task('validate-slaves', function () {
+  return gulp.src(['']) //add new languages here e.g. dist/pl_PL.json
+    .pipe(jsonschema('src/schema.json', {
+      banUnknownProperties: true
+    }));
+});
+
+gulp.task('validate', ['validate-master', 'validate-slaves']);
 gulp.task('default', ['merge']);
