@@ -246,7 +246,8 @@
     "SUM": {"type":"string"},
     "COLUMNS": {"type":"string"},
     "REFRESH": {"type": "string"},
-    "PLEASE_WAIT": {"type": "string"}
+    "PLEASE_WAIT": {"type": "string"},
+    "AGREE": {"type": "string"}
   },
   "required":
     [
@@ -506,6 +507,7 @@
       "SUM",
       "COLUMNS",
       "REFRESH",
-      "PLEASE_WAIT"
+      "PLEASE_WAIT",
+      "AGREE"
   ]
 }

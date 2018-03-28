@@ -32,5 +32,6 @@
   "SUM":"sum",
   "COLUMNS": "Columns",
   "REFRESH": "Refresh",
-  "PLEASE_WAIT": "Please wait"
+  "PLEASE_WAIT": "Please wait",
+  "AGREE": "I agree"
 }
