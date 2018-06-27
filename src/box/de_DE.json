@@ -95,5 +95,12 @@
   "DATAUPLOAD_SUCCESS": "Messungen erfolgreich gespeichert!",
   "DATAUPLOAD_ERR_FORMAT": "Ungültiges Datenformat",
   "DATAUPLOAD_ERR_BadRequest": "Ungültige Sensor-ID",
-  "DATAUPLOAD_ERR_UnprocessableEntity": "Messung(en) konnten nicht gelesen werden"
+  "DATAUPLOAD_ERR_UnprocessableEntity": "Messung(en) konnten nicht gelesen werden",
+
+  "SENSOR_DELETE_ALL_MEASUREMENTS": "Möchtest du wirklich alle Messungen für diesen Sensor löschen?",
+  "SENSOR_DELETE_TIMEFRAME_MEASUREMENTS": "Möchtest du für den gewählten Zeitraum wirklich alle Messungen löschen?",
+  "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": "Wähle einen Zeitraum und lösche alle Messungen innerhalb des Zeitraums.",
+  "SENSOR_SELECT_DELETE_OPTION": "Wähle eine der Löschoptionen:",
+  "NOTIFICATION_NO_MATCHING_MEASUREMENTS": "Es wurden keine Messungen gefunden!",
+  "NOTIFICATION_SUCCESSFULLY_DELETED": "Die Messungen von Sensor {{ sensorId }} wurden erfolgreich gelöscht!"
 }

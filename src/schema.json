@@ -225,6 +225,8 @@
     "DATAUPLOAD_ERR_FORMAT": {"type": "string"},
     "DATAUPLOAD_ERR_BadRequest": {"type": "string"},
     "DATAUPLOAD_ERR_UnprocessableEntity": {"type": "string"},
+    "SENSOR_DELETE_ALL_MEASUREMENTS": {"type":"string"},
+    "SENSOR_DELETE_TIMEFRAME_MEASUREMENTS": {"type":"string"},
     "NO_MEASUREMENT": {"type": "string"},
     "VALUE": {"type": "string"},
     "CREATED_AT": {"type": "string"},
@@ -247,7 +249,14 @@
     "COLUMNS": {"type":"string"},
     "REFRESH": {"type": "string"},
     "PLEASE_WAIT": {"type": "string"},
-    "AGREE": {"type": "string"}
+    "AGREE": {"type": "string"},
+    "TIMEFRAME": {"type": "string"},
+    "ALL": {"type": "string"},
+    "ACTION_NOT_UNDONE": {"type":"string"},
+    "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": {"type":"string"},
+    "SENSOR_SELECT_DELETE_OPTION": {"type":"string"},
+    "NOTIFICATION_NO_MATCHING_MEASUREMENTS": {"type":"string"},
+    "NOTIFICATION_SUCCESSFULLY_DELETED": {"type":"string"}
   },
   "required":
     [
@@ -486,6 +495,12 @@
       "DATAUPLOAD_ERR_FORMAT",
       "DATAUPLOAD_ERR_BadRequest",
       "DATAUPLOAD_ERR_UnprocessableEntity",
+      "SENSOR_DELETE_ALL_MEASUREMENTS",
+      "SENSOR_DELETE_TIMEFRAME_MEASUREMENTS",
+      "SENSOR_DELETE_TIMEFRAME_DESCRIPTION",
+      "SENSOR_SELECT_DELETE_OPTION",
+      "NOTIFICATION_NO_MATCHING_MEASUREMENTS",
+      "NOTIFICATION_SUCCESSFULLY_DELETED",
       "NO_MEASUREMENT",
       "VALUE",
       "CREATED_AT",
@@ -508,6 +523,9 @@
       "COLUMNS",
       "REFRESH",
       "PLEASE_WAIT",
-      "AGREE"
+      "AGREE",
+      "TIMEFRAME",
+      "ALL",
+      "ACTION_NOT_UNDONE"
   ]
 }

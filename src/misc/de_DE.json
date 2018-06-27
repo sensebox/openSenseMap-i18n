@@ -33,5 +33,8 @@
   "COLUMNS":"Spalten",
   "REFRESH": "Aktualisieren",
   "PLEASE_WAIT": "Bitte warten",
-  "AGREE": "Ich stimme zu"
+  "AGREE": "Ich stimme zu",
+  "TIMEFRAME": "Zeitraum",
+  "ALL": "Alle",
+  "ACTION_NOT_UNDONE": "Diese Aktion kann nicht rückgängig gemacht werden!"
 }

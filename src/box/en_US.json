@@ -94,5 +94,12 @@
   "DATAUPLOAD_SUCCESS": "Measurements successfully added!",
   "DATAUPLOAD_ERR_FORMAT": "Invalid filetype",
   "DATAUPLOAD_ERR_BadRequest": "Invalid sensor ID",
-  "DATAUPLOAD_ERR_UnprocessableEntity": "Could not parse measurements"
+  "DATAUPLOAD_ERR_UnprocessableEntity": "Could not parse measurements",
+
+  "SENSOR_DELETE_ALL_MEASUREMENTS": "Do you really want to delete all measurements for this sensor?",
+  "SENSOR_DELETE_TIMEFRAME_MEASUREMENTS": "Do you really want to delete all measruements for the selected timeframe?",
+  "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": "Select two dates and delete all measuerements between these dates.",
+  "SENSOR_SELECT_DELETE_OPTION": "Select one of the deleting options:",
+  "NOTIFICATION_NO_MATCHING_MEASUREMENTS": "No matching measurements for specified query!",
+  "NOTIFICATION_SUCCESSFULLY_DELETED": "Successfully deleted all measurements of sensor {{ sensorId }}"
 }
