@@ -256,7 +256,11 @@
     "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": {"type":"string"},
     "SENSOR_SELECT_DELETE_OPTION": {"type":"string"},
     "NOTIFICATION_NO_MATCHING_MEASUREMENTS": {"type":"string"},
-    "NOTIFICATION_SUCCESSFULLY_DELETED": {"type":"string"}
+    "NOTIFICATION_SUCCESSFULLY_DELETED": {"type":"string"},
+    "INFO_IMPRINT_HEADER": {"type":"string"},
+    "INFO_IMPRINT_CONTENT": {"type":"string"},
+    "INFO_PRIVACY_HEADER": {"type":"string"},
+    "INFO_PRIVACY_CONTENT": {"type":"string"}
   },
   "required":
     [
@@ -526,6 +530,10 @@
       "AGREE",
       "TIMEFRAME",
       "ALL",
-      "ACTION_NOT_UNDONE"
+      "ACTION_NOT_UNDONE",
+      "INFO_IMPRINT_HEADER",
+      "INFO_IMPRINT_CONTENT",
+      "INFO_PRIVACY_HEADER",
+      "INFO_PRIVACY_CONTENT"
   ]
 }
