@@ -34,6 +34,10 @@
   "CONFIG_UNIT": "Einheit",
   "CONFIG_TYPE": "Typ",
   "FINISH": "Abschließen",
+  "DEFINITION":"Definition",
+  "INTERPRETATION":"Interpretation",
+  "INFLUENCE":"Einflüsse",
+  "FUN_FACT":"Fun Fact",
 
   "GROUP": "Gruppe",
   "BOX_NAME": "Name",

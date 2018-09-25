@@ -36,5 +36,7 @@
   "AGREE": "Ich stimme zu",
   "TIMEFRAME": "Zeitraum",
   "ALL": "Alle",
-  "ACTION_NOT_UNDONE": "Diese Aktion kann nicht rückgängig gemacht werden!"
+  "ACTION_NOT_UNDONE": "Diese Aktion kann nicht rückgängig gemacht werden!",
+  "MORE_INFORMATION": "Für weitere Informationen bitte klicken!",
+  "WHAT_IS":"Was ist"
 }

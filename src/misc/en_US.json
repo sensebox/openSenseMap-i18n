@@ -36,5 +36,7 @@
   "AGREE": "I agree",
   "TIMEFRAME": "Timeframe",
   "ALL": "All",
-  "ACTION_NOT_UNDONE": "This action cannot be undone!"
+  "ACTION_NOT_UNDONE": "This action cannot be undone!",
+  "MORE_INFORMATION": "Please click for more information!",
+  "WHAT_IS":"What is"
 }
