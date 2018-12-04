@@ -41,5 +41,6 @@
   "WHAT_IS":"What is",
   "CONFIGURATION": "Configuration",
   "DATA_NOT_STORED": "This data will not be stored.",
-  "PORT": "Port"
+  "PORT": "Port",
+  "COMPILE": "Compile"
 }

@@ -41,5 +41,6 @@
   "WHAT_IS":"Was ist",
   "CONFIGURATION": "Konfiguration",
   "DATA_NOT_STORED": "Diese Daten werden nicht gespeichert.",
-  "PORT": "Anschluss"
+  "PORT": "Anschluss",
+  "COMPILE": "Kompilieren"
 }

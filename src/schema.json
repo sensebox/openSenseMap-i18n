@@ -299,7 +299,8 @@
     "WHAT_IS": {"type":"string"},
     "CONFIGURATION": {"type":"string"},
     "DATA_NOT_STORED": {"type":"string"},
-    "PORT": {"type":"string"}
+    "PORT": {"type":"string"},
+    "COMPILE": {"type":"string"}
   },
   "required":
     [
@@ -420,7 +421,7 @@
       "COMMON_ERROR",
       "HELP_SECTION",
       "FORM_INVALID",
-  
+
       "SEARCH_AND_FILTER",
       "SAF_INTRO",
       "SAF_HELP",
@@ -430,7 +431,7 @@
       "SAF_REFRESH_LIVE_FILTER",
       "RESULTS",
       "NO_RESULTS",
-  
+
       "INTERP_INTRO",
       "INTERP_TIMESTAMPBEGIN",
       "INTERP_TIMESTAMPEND",
@@ -441,7 +442,7 @@
       "INTERP_IDW_P",
       "INTERP_NUMTIMESTEPS",
       "INTERP_TIMESTEP",
-  
+
       "LEGEND_ACTIVE",
       "LEGEND_ACTIVE_DAYS",
       "LEGEND_INACTIVE_DAYS",
@@ -449,12 +450,12 @@
       "LEGEND_SHOWALL",
       "LEGEND_STATIONARY",
       "LEGEND_MOBILE",
-  
+
       "SENSEBOXES",
       "MEASUREMENTS",
       "INTERPOLATION",
       "INFO",
-  
+
       "CHART_NODATA",
       "BOX_BOXDETAILSINFO",
       "CUSTOMBOX",
@@ -464,7 +465,7 @@
       "BOX_LONGITUDE",
       "BOX_HEIGHT",
       "BOX_POSITION_RESET",
-  
+
       "ACCOUNT_HEADING",
       "ACCOUNT_HEADING_RECOVER_PASSWORD",
       "ACCOUNT_TITLE",
@@ -492,7 +493,7 @@
       "ACCOUNT_DELETE",
       "ACCOUNT_DELETE_INFO",
       "ACCOUNT_DELETE_ACTION",
-  
+
       "TTN_DESCRIPTION",
       "TTN_PROFILE",
       "TTN_APPID",
@@ -500,7 +501,7 @@
       "TTN_DECODEOPTIONS",
       "TTN_INVALID_DECODEOPTS",
       "TTN_PORT",
-  
+
       "NOTIFICATION_BOX_UPDATE_SUCCESS",
       "NOTIFICATION_BOX_UPDATE_FAILED",
       "NOTIFICATION_BOX_DELETE_SUCCESS",
@@ -517,11 +518,11 @@
       "REGISTERED_BOXES",
       "REGISTERED_BOXES_INFO",
       "DOCUMENTATION",
-  
+
       "EXTENSIONS_FINE_PARTICULATE_MATTER",
       "CREATE_NEW_SENSEBOX",
       "CREATE_NEW_SENSEBOX_INFO",
-  
+
       "CHART_TOOLTIP_PLACEHOLDER",
       "BADGE_PLACEHOLDER_PREFIX",
       "BADGE_PLACEHOLDER_SUFFIX",
@@ -612,6 +613,7 @@
       "WHAT_IS",
       "CONFIGURATION",
       "DATA_NOT_STORED",
-      "PORT"
+      "PORT",
+      "COMPILE"
   ]
 }
