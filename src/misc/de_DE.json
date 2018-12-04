@@ -38,5 +38,8 @@
   "ALL": "Alle",
   "ACTION_NOT_UNDONE": "Diese Aktion kann nicht rückgängig gemacht werden!",
   "MORE_INFORMATION": "Für weitere Informationen bitte klicken!",
-  "WHAT_IS":"Was ist"
+  "WHAT_IS":"Was ist",
+  "CONFIGURATION": "Konfiguration",
+  "DATA_NOT_STORED": "Diese Daten werden nicht gespeichert.",
+  "PORT": "Anschluss"
 }

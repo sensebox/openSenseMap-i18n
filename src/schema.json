@@ -296,7 +296,10 @@
     "INFLUENCE": {"type":"string"},
     "FUN_FACT": {"type":"string"},
     "MORE_INFORMATION": {"type":"string"},
-    "WHAT_IS": {"type":"string"}
+    "WHAT_IS": {"type":"string"},
+    "CONFIGURATION": {"type":"string"},
+    "DATA_NOT_STORED": {"type":"string"},
+    "PORT": {"type":"string"}
   },
   "required":
     [
@@ -382,7 +385,7 @@
       "INFO_MADE_BY",
       "INFO_COPYRIGHT_NOTICES",
       "DOWNLOAD_LICENSE",
-  
+
       "INFO_TITLE",
       "INFO_ABOUT",
       "SENSEBOX_NOT_FOUND",
@@ -606,6 +609,9 @@
       "INFLUENCE",
       "FUN_FACT",
       "MORE_INFORMATION",
-      "WHAT_IS"
+      "WHAT_IS",
+      "CONFIGURATION",
+      "DATA_NOT_STORED",
+      "PORT"
   ]
 }

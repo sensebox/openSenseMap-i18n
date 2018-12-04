@@ -38,5 +38,8 @@
   "ALL": "All",
   "ACTION_NOT_UNDONE": "This action cannot be undone!",
   "MORE_INFORMATION": "Please click for more information!",
-  "WHAT_IS":"What is"
+  "WHAT_IS":"What is",
+  "CONFIGURATION": "Configuration",
+  "DATA_NOT_STORED": "This data will not be stored.",
+  "PORT": "Port"
 }
