@@ -9,6 +9,27 @@
   "STEP2_SUB2_DESCRIPTION": "Click on the map to choose a location for your senseBox.",
   "STEP2_SUB3": "Hardware",
   "STEP2_SUB3_DESCRIPTION": "Select your senseBox model.",
+  "BASED_ARDUINO": "based on Arduino/Genuino Uno",
+  "SELECT": "Select",
+  "BASED_MCU": "based on senseBox MCU",
+  "CONNECTION_TYPE": "Connection type",
+  "SENSORS": "Sensors",
+  "SENSOR_TEMP_HUMI": "Temperature &amp; Humidity",
+  "SENSOR_TEMP_PRESSURE": "Airpressure &amp; Temperature",
+  "SENSOR_LIGHT_UV": "Illumination &amp; UV-Radiation",
+  "SENSOR_PM": "Fine dust (PM10 &amp; PM2.5)",
+  "CONNECTION": "Connection",
+  "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) with temperature-/humidity Sensor",
+  "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",
+  "LD_INFO_PMS7003_WITH_BME": "Luftdaten.info dust particle sensor (PMS7003) with BME280",
+  "LD_INFO_PMS7003_WITHOUT": "Luftdaten.info dust particle sensor (PMS7003) without temperature-/humidity Sensor",
+  "LD_INFO_PMS5003_WITH_BME": "Luftdaten.info dust particle sensor (PMS5003) with BME280",
+  "LD_INFO_PMS5003_WITHOUT": "Luftdaten.info dust particle sensor (PMS5003) without temperature-/humidity Sensor",
+  "LD_INFO_PMS3003_WITH_BME": "Luftdaten.info dust particle sensor (PMS3003) with BME280",
+  "LD_INFO_PMS3003_WITHOUT": "Luftdaten.info dust particle sensor (PMS3003) without temperature-/humidity Sensor",
+  "LD_INFO_PMS1003_WITH_BME": "Luftdaten.info dust particle sensor (PMS1003) with BME280",
+  "LD_INFO_PMS1003_WITHOUT": "Luftdaten.info dust particle sensor (PMS1003) without temperature-/humidiry Sensor",
+
   "STEP2_SUB4": "Advanced",
 
   "STEP3": "Confirm",
@@ -19,5 +40,10 @@
   "REGISTRATION_LICENSE": "By clicking \"Finish\" you agree that the sensor data you submit can be freely used by the public according to the <a href=\"http://opendatacommons.org/licenses/pddl/summary/\" target=\"_blank\">Public Domain Dedication and License 1.0</a>.",
   "CUSTOMBOX": "Here you can set up your own senseBox. Add sensors to your setup and specify their phenomenon (what is being measured?), unit and type (component name).<br/> A temperature sensor might look like this:<br/> <ul> <li>Phenomenon: Temperature</li> <li>Unit: °C</li> <li>Type: LM35</li> </ul>",
   "CUSTOMBOX_SENSORINCOMPLETE": "Your sensor setup is incomplete, please check if you have filled all fields (phenomenon, unit and type)",
-  "REG_HARDWAREINCOMPLETE": "Your hardware setup is incomplete, please select a model"
+  "REG_HARDWAREINCOMPLETE": "Your hardware setup is incomplete, please select a model",
+
+  "USEFUL_LINKS": "Useful links",
+  "MANUAL": "Manual",
+  "YOUR_SENSEBOX": "Your senseBox"
+
 }

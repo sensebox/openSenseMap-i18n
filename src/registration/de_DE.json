@@ -9,6 +9,26 @@
   "STEP2_SUB2_DESCRIPTION": "Klicke auf die Karte, um den geplanten Standort deiner senseBox zu bestimmen.",
   "STEP2_SUB3": "Hardware",
   "STEP2_SUB3_DESCRIPTION": "Wähle den Typ deiner senseBox aus.",
+  "BASED_ARDUINO": "basiert auf Arduino/Genuino Uno",
+  "SELECT": "Auswählen",
+  "BASED_MCU": "basiert auf senseBox MCU",
+  "CONNECTION_TYPE": "Verbindungsart",
+  "SENSORS": "Sensoren",
+  "SENSOR_TEMP_HUMI": "Temperatur &amp; Luftfeuchtigkeit",
+  "SENSOR_TEMP_PRESSURE": "Luftdruck &amp; Temperatur",
+  "SENSOR_LIGHT_UV": "Beleuchtungsstärke &amp; UV-Strahlung",
+  "SENSOR_PM": "Feinstaub (PM10 &amp; PM2.5)",
+  "CONNECTION": "Anschluss",
+  "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info Feinstaubsensor (SDS011) ohne Temperatur-/Feuchtesensor",
+  "LD_INFO_SDS_WITH": "Luftdaten.info Feinstaubsensor (SDS011) mit",
+  "LD_INFO_PMS7003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS7003) mit BME280",
+  "LD_INFO_PMS7003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS7003) ohne Temperatur-/Feuchtesensor",
+  "LD_INFO_PMS5003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS5003) mit BME280",
+  "LD_INFO_PMS5003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS5003) ohne Temperatur-/Feuchtesensor",
+  "LD_INFO_PMS3003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS3003) mit BME280",
+  "LD_INFO_PMS3003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS3003) ohne Temperatur-/Feuchtesensor",
+  "LD_INFO_PMS1003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS1003) mit BME280",
+  "LD_INFO_PMS1003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS1003) ohne Temperatur-/Feuchtesensor",
   "STEP2_SUB4": "Erweitert",
   
   "STEP3": "Bestätigen",
@@ -20,5 +40,9 @@
 
   "CUSTOMBOX": "Hier kannst du deine eigene senseBox zusammenbauen. Füge Sensoren zu deiner senseBox hinzu und bestimme deren Phänomen (was wird gemessen?), die Einheit der Messung sowie den Typ des Bauteils.<br/> Ein Temperatursensor könnte so aussehen:<br/> <ul> <li>Phänomen: Temperatur</li> <li>Einheit: °C</li> <li>Typ: LM35</li> </ul>",
   "CUSTOMBOX_SENSORINCOMPLETE": "Die Sensoren sind unvollständig, bitte überprüfe, ob du alle Felder (Phänomen, Einheit und Typ) ausgefüllt hast",
-  "REG_HARDWAREINCOMPLETE": "Das Hardwaresetup ist unvollständig, bitte wähle eine senseBox Variante"
+  "REG_HARDWAREINCOMPLETE": "Das Hardwaresetup ist unvollständig, bitte wähle eine senseBox Variante",
+
+  "USEFUL_LINKS": "Nützliche Links",
+  "MANUAL": "Anleitung",
+  "YOUR_SENSEBOX": "Deine senseBox"
 }
