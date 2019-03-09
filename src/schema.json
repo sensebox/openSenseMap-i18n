@@ -163,6 +163,7 @@
     "STEP2_SUB2_DESCRIPTION": {"type": "string"},
     "STEP2_SUB3": {"type": "string"},
     "STEP2_SUB3_DESCRIPTION": {"type": "string"},
+    "TEMPERATURE": {"type": "string"},
     "BASED_ARDUINO" : {"type": "string"},
     "SELECT": {"type": "string"},
     "CONNECTION_TYPE": {"type": "string"},
