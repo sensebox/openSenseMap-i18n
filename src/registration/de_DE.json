@@ -47,6 +47,7 @@
   "CUSTOMBOX": "Hier kannst du deine eigene senseBox zusammenbauen. Füge Sensoren zu deiner senseBox hinzu und bestimme deren Phänomen (was wird gemessen?), die Einheit der Messung sowie den Typ des Bauteils.<br/> Ein Temperatursensor könnte so aussehen:<br/> <ul> <li>Phänomen: Temperatur</li> <li>Einheit: °C</li> <li>Typ: LM35</li> </ul>",
   "CUSTOMBOX_SENSORINCOMPLETE": "Die Sensoren sind unvollständig, bitte überprüfe, ob du alle Felder (Phänomen, Einheit und Typ) ausgefüllt hast",
   "REG_HARDWAREINCOMPLETE": "Das Hardwaresetup ist unvollständig, bitte wähle eine senseBox Variante",
+  "COMPILE_SKETCH": "Du hast kein Arduino installiert? Kein Problem! Konfiguriere hier dein WiFi und klicke auf kompilieren. Danach erhälst du eine <kbd>sketch.bin</kbd> Datei, die du per Drag&Drop auf deine senseBox MCU kopieren kannst.",
 
   "USEFUL_LINKS": "Nützliche Links",
   "MANUAL": "Anleitung",
