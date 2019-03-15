@@ -201,7 +201,7 @@
     "REG_HARDWAREINCOMPLETE": {"type": "string"},
     "USEFUL_LINKS": {"type": "string"},
     "MANUAL": {"type": "string"},
-    "YOUR_SENSBOX": {"type": "string"},
+    "YOUR_SENSEBOX": {"type": "string"},
     
     "ACCOUNT_HEADING": {"type": "string"},
     "ACCOUNT_HEADING_RECOVER_PASSWORD": {"type": "string"},
@@ -378,7 +378,7 @@
       "LD_INFO_PMS1003_WITHOUT",
       "USEFUL_LINKS",
       "MANUAL",
-      "YOUR_SENSBOX",
+      "YOUR_SENSEBOX",
       "MQTT_DESCRIPTION",
       "MQTT_ENABLE",
       "MQTT_URL",
