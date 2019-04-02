@@ -14,7 +14,7 @@
   "AIRPRESSURE": "Luftdruck",
   "ILLUMINATION": "Beleuchtungsstärke",
   "UV": "UV Strahlung",
-  "PARTICULLARMATTER": "Feinstuab",
+  "PARTICULLARMATTER": "Feinstaub",
   "BASED_ARDUINO": "basiert auf Arduino/Genuino Uno",
   "SELECT": "Auswählen",
   "BASED_MCU": "basiert auf senseBox MCU",
