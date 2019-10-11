@@ -25,7 +25,7 @@
   "SENSOR_LIGHT_UV": "Illumination & UV-Radiation",
   "SENSOR_PM": "Fine dust (PM10 & PM2.5)",
   "CONNECTION": "Connection",
-  "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) with temperature-/humidity Sensor",
+  "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) without temperature-/humidity Sensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",
   "LD_INFO_PMS7003_WITH_BME": "Luftdaten.info dust particle sensor (PMS7003) with BME280",
   "LD_INFO_PMS7003_WITHOUT": "Luftdaten.info dust particle sensor (PMS7003) without temperature-/humidity Sensor",
