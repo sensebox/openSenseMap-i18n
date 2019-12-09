@@ -27,7 +27,7 @@
   "CONNECTION": "Connection",
   "PHENOMENON": "Phenomenon",
   "TEMPERATURE_HUMIDITY_PRESSURE": "Temperature, humidity & airpressure",
-  "SOIL_MOISTURE": "Soil moisture und temperatur",
+  "SOIL_MOISTURE": "Soil moisture and temperature",
   "DIGITAL_PORT": "Digital port",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) with temperature-/humidity Sensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",
