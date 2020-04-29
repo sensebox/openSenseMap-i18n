@@ -42,5 +42,6 @@
   "CONFIGURATION": "Konfiguration",
   "DATA_NOT_STORED": "Diese Daten werden nicht gespeichert.",
   "PORT": "Anschluss",
-  "COMPILE": "Kompilieren"
+  "COMPILE": "Kompilieren",
+  "TTN_KEYS": "Die TTN Keys findest Du auf der TTN Console"
 }

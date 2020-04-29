@@ -42,5 +42,6 @@
   "CONFIGURATION": "Configuration",
   "DATA_NOT_STORED": "This data will not be stored.",
   "PORT": "Port",
-  "COMPILE": "Compile"
+  "COMPILE": "Compile",
+  "TTN_KEYS": "You can find your TTN keys in the TTN console"
 }

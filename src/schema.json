@@ -358,7 +358,8 @@
     "CONFIGURATION": {"type":"string"},
     "DATA_NOT_STORED": {"type":"string"},
     "PORT": {"type":"string"},
-    "COMPILE": {"type":"string"}
+    "COMPILE": {"type":"string"},
+    "TTN_KEYS": {"type":"string"}
   },
   "required":
     [
@@ -724,6 +725,7 @@
       "CONFIGURATION",
       "DATA_NOT_STORED",
       "PORT",
-      "COMPILE"
+      "COMPILE",
+      "TTN_KEYS"
   ]
 }
