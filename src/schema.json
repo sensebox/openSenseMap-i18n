@@ -188,6 +188,7 @@
     "SOIL_MOISTURE": {"type": "string"},
     "DIGITAL_PORT": {"type": "string"},
     "SOUND_LEVEL": {"type": "string"},
+    "WIND_SPEED": {"type": "string"},
     "LD_INFO_SDS_WITHOUT_TEMP": {"type": "string"},
     "LD_INFO_SDS_WITH": {"type": "string"},
     "LD_INFO_PMS7003_WITH_BME": {"type": "string"},
