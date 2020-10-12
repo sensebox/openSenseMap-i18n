@@ -105,5 +105,17 @@
   "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": "Select two dates and delete all measuerements between these dates.",
   "SENSOR_SELECT_DELETE_OPTION": "Select one of the deleting options:",
   "NOTIFICATION_NO_MATCHING_MEASUREMENTS": "No matching measurements for specified query!",
-  "NOTIFICATION_SUCCESSFULLY_DELETED": "Successfully deleted all measurements of sensor {{ sensorId }}"
+  "NOTIFICATION_SUCCESSFULLY_DELETED": "Successfully deleted all measurements of sensor {{ sensorId }}",
+
+  "BOX_SECURITY": "Security",
+  "EDIT_SECURITY": "Change security settings",
+  "USE_AUTH_LABEL": "Enable authentification",
+  "AUTH_WARNING_ENABLED": "DANGER: If you deaktivate this option everyone can send data to your box.",
+  "AUTH_WARNING_DISABLED": "If you activate this option you have to download a new Sketch for your box",
+  "ACCESS_TOKEN": "Key",
+
+  "GENERATE_NEW_TOKEN_WARNING" : "If you generate a new token you have to upload a new sktech to your box. This step can not be undone.",
+  "GENERATE_NEW_TOKEN" : "Generate a new Token"
+
+
 }
