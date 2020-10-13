@@ -110,11 +110,12 @@
 
   "BOX_SECURITY": "Sicherheit",
   "EDIT_SECURITY": "Sicherheitseinstellungen ändern",
-  "USE_AUTH_LABEL": "Box authentifizierung aktivieren",
-  "AUTH_WARNING_ENABLED": "VORSICHT: Wenn du diese Option deaktivierst kann jeder Daten zu deiner Box senden.",
+  "USE_AUTH_LABEL": "Box Authentifizierung aktivieren",
+  "USE_AUTH_LABEL_HELP": "Deine senseBox wird einen AUTH Token im Header des HTTP requests verweden wenn du diese Option aktivierst. Damit stellst du sicher das nur du Daten zu deiner senseBox senden kannst.",
+  "AUTH_WARNING_ENABLED": "VORSICHT: Wenn du diese Option deaktivierst kann jeder Daten zu deiner senseBox senden.",
   "AUTH_WARNING_DISABLED": "Wenn du diese Option aktivierst musst du einen neuen Sketch für deine senseBox herunterladen.",
   "ACCESS_TOKEN": "Schlüssel",
-  "GENERATE_NEW_TOKEN_WARNING" : "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine Box laden. Diesen Schritt kannst du nicht rückgängig machen.",
+  "GENERATE_NEW_TOKEN_WARNING" : "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. Diesen Schritt kannst du nicht rückgängig machen.",
   "GENERATE_NEW_TOKEN" : "Neuen Token generieren"
 
 }
