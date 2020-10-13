@@ -114,8 +114,8 @@
   "AUTH_WARNING_DISABLED": "If you activate this option you have to download a new Sketch for your box",
   "ACCESS_TOKEN": "Key",
 
-  "GENERATE_NEW_TOKEN_WARNING" : "If you generate a new token you have to upload a new sktech to your box. This step can not be undone.",
-  "GENERATE_NEW_TOKEN" : "Generate a new Token"
+  "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sktech to your box. This step can not be undone.",
+  "GENERATE_NEW_TOKEN" : "Generate new Token"
 
 
 }
