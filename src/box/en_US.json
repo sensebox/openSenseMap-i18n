@@ -122,5 +122,8 @@
   "ACCESS_TOKEN": "Key",
 
   "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sketch to your senseBox. <b>This step can not be undone.</b>",
-  "GENERATE_NEW_TOKEN" : "Generate new Token"
+  "GENERATE_NEW_TOKEN" : "Generate new Token",
+
+  "FURTHER_SECURITY_INFORMATION": "Further information regarding security on openSenseMap can be found here:",
+  "FURTHER_SECURITY_INFORMATION_LINK": "https://en.docs.sensebox.de/opensensemap/opensensemap-security/"
 }

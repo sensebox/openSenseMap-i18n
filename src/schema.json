@@ -91,6 +91,8 @@
     "ACCESS_TOKEN": {"type": "string"},
     "GENERATE_NEW_TOKEN_WARNING": {"type": "string"},
     "GENERATE_NEW_TOKEN": {"type": "string"},  
+    "FURTHER_SECURITY_INFORMATION": {"type": "string"},  
+    "FURTHER_SECURITY_INFORMATION_LINK": {"type": "string"},  
     "DATEPICKER_STARTINGDATE": {"type": "string"},
     "DATEPICKER_ENDINGDATE": {"type": "string"},
     "DATEPICKER_CURRENTTEXT": {"type": "string"},
@@ -644,6 +646,9 @@
 
       "GENERATE_NEW_TOKEN_WARNING",
       "GENERATE_NEW_TOKEN",
+
+      "FURTHER_SECURITY_INFORMATION",
+      "FURTHER_SECURITY_INFORMATION_LINK",
     
       "EXTENSIONS_FINE_PARTICULATE_MATTER",
       "CREATE_NEW_SENSEBOX",
