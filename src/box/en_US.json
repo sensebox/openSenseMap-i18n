@@ -121,6 +121,6 @@
   "CUSTOM_AUTH_TEXT": "If you activate the authentication you have to add the following token to the 'Authentication'-Header of your HTTP requests to the openSenseMap.",
   "ACCESS_TOKEN": "Key",
 
-  "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sktech to your senseBox. <b>This step can not be undone.</b>",
+  "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sketch to your senseBox. <b>This step can not be undone.</b>",
   "GENERATE_NEW_TOKEN" : "Generate new Token"
 }
