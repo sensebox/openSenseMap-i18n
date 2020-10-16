@@ -121,7 +121,7 @@
   "CUSTOM_AUTH_HEADER": "Für manuell angelegte Boxen:",
   "CUSTOM_AUTH_TEXT": "Wenn du die Authentifizierung aktivierst musst du den folgenden Token im 'Authentication'-Header an die openSenseMap mitschicken um Daten an deine Box zu übertragen.",
   "ACCESS_TOKEN": "Schlüssel",
-  "GENERATE_NEW_TOKEN_WARNING" : "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. Diesen Schritt kannst du nicht rückgängig machen.",
+  "GENERATE_NEW_TOKEN_WARNING" : "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. <b>Diesen Schritt kannst du nicht rückgängig machen.</b>",
   "GENERATE_NEW_TOKEN" : "Neuen Token generieren"
 
 }
