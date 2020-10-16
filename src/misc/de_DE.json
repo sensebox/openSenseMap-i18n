@@ -43,5 +43,6 @@
   "DATA_NOT_STORED": "Diese Daten werden nicht gespeichert.",
   "PORT": "Anschluss",
   "COMPILE": "Kompilieren",
-  "TTN_KEYS": "Die TTN Keys findest Du auf der TTN Console"
+  "TTN_KEYS": "Die TTN Keys findest Du auf der TTN Console",
+  "DONT_SHOW_AGAIN": "Nicht mehr anzeigen"
 }
