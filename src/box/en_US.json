@@ -113,10 +113,14 @@
   "USE_AUTH_LABEL_HELP": "Your senseBox will use an auth token in the header of the HTTP request. This will ensure that only you can send data to this senseBox.",
   "AUTH_WARNING_ENABLED": "DANGER: If you deactivate this option everyone can send data to your senseBox.",
   "AUTH_WARNING_DISABLED": "If you activate this option you have to download a new Sketch for your senseBox",
+  "LUFTDATEN_AUTH_HEADER": "For luftdaten.info devices:",
+  "LUFTDATEN_AUTH_TEXT": "If you activate this option you have to update the Sketch on your device to include the following token in the 'Authentication'-Header when posting data to openSenseMap.",
+  "HOME_AUTH_HEADER": "For senseBox:home devices:",
+  "HOME_AUTH_TEXT": "If you activate the authentication you have to download a new Sketch for your senseBox so the following token will be send in the 'Authentication'-Header when submitting data to the openSenseMap.",
+  "CUSTOM_AUTH_HEADER": "For custom devices:",
+  "CUSTOM_AUTH_TEXT": "If you activate the authentication you have to add the following token to the 'Authentication'-Header of your HTTP requests to the openSenseMap.",
   "ACCESS_TOKEN": "Key",
 
   "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sktech to your senseBox. This step can not be undone.",
   "GENERATE_NEW_TOKEN" : "Generate new Token"
-
-
 }
