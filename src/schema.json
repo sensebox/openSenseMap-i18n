@@ -212,7 +212,7 @@
     "USEFUL_LINKS": {"type": "string"},
     "MANUAL": {"type": "string"},
     "YOUR_SENSEBOX": {"type": "string"},
-    
+
     "ACCOUNT_HEADING": {"type": "string"},
     "ACCOUNT_HEADING_RECOVER_PASSWORD": {"type": "string"},
     "ACCOUNT_TITLE": {"type": "string"},
@@ -360,7 +360,8 @@
     "DATA_NOT_STORED": {"type":"string"},
     "PORT": {"type":"string"},
     "COMPILE": {"type":"string"},
-    "TTN_KEYS": {"type":"string"}
+    "TTN_KEYS": {"type":"string"},
+    "DONT_SHOW_AGAIN": {"type":"string"}
   },
   "required":
     [
@@ -727,6 +728,7 @@
       "DATA_NOT_STORED",
       "PORT",
       "COMPILE",
-      "TTN_KEYS"
+      "TTN_KEYS",
+      "DONT_SHOW_AGAIN"
   ]
 }
