@@ -109,7 +109,7 @@
 
   "BOX_SECURITY": "Security",
   "EDIT_SECURITY": "Change security settings",
-  "USE_AUTH_LABEL": "Enable authentification",
+  "USE_AUTH_LABEL": "Enable authentication",
   "USE_AUTH_LABEL_HELP": "Your senseBox will use an auth token in the header of the HTTP request. This will ensure that only you can send data to this senseBox.",
   "AUTH_WARNING_ENABLED": "DANGER: If you deactivate this option everyone can send data to your senseBox.",
   "AUTH_WARNING_DISABLED": "If you activate this option you have to download a new Sketch for your senseBox",
