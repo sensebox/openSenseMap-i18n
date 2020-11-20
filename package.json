@@ -25,7 +25,7 @@
     "build": "gulp",
     "validate": "gulp validate",
     "test": "npm run validate",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release"
   },
   "config": {
     "commitizen": {
@@ -35,5 +35,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sensebox/openSenseMap-i18n.git"
+  },
+  "release": {
+    "branches": [
+      {
+        "name": "actions",
+        "prerelease": true
+      }
+    ]
   }
 }
