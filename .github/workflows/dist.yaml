@@ -25,3 +25,8 @@ jobs:
       - run: npm test
         env:
           CI: true
+      - name: Archive language files
+        uses: actions/upload-artifact@v2
+        with:
+          name: openSenseMap-i18n
+          path: dist
