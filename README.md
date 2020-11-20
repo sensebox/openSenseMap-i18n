@@ -10,7 +10,7 @@ Messages and translations used in [openSenseMap frontend](https://github.com/sen
 
 ## Contribution
 
-For a detailed contribution guideline have a look at [CONTIRBUTING](CONTRIBUTING.md).
+For a detailed contribution guideline have a look at [CONTIRBUTING](.github/CONTRIBUTING.md).
 
 ## License
 
