@@ -1,4 +1,5 @@
 {
+  "ACTIONS_TEST": "Action Test",
   "ARCHIVE": "Archiv",
   "CENTER": "Zentrieren",
   "SHOW": "Anzeigen",
@@ -34,10 +35,10 @@
   "CONFIG_UNIT": "Einheit",
   "CONFIG_TYPE": "Typ",
   "FINISH": "Abschließen",
-  "DEFINITION":"Definition",
-  "INTERPRETATION":"Interpretation",
-  "INFLUENCE":"Einflüsse",
-  "FUN_FACT":"Fun Fact",
+  "DEFINITION": "Definition",
+  "INTERPRETATION": "Interpretation",
+  "INFLUENCE": "Einflüsse",
+  "FUN_FACT": "Fun Fact",
 
   "GROUP": "Gruppe",
   "BOX_NAME": "Name",
@@ -87,7 +88,7 @@
   "NOTIFICATION_BOX_UPDATE_FAILED": "senseBox konnte nicht aktualisiert werden",
   "NOTIFICATION_BOX_DELETE_SUCCESS": "senseBox wurde gelöscht - <a href=\"account\">Dashboard</a>",
   "NOTIFICATION_BOX_DELETE_FAILED": "senseBox konnte nicht gelöscht werden",
-  
+
   "NO_MEASUREMENT": "nichts gemessen",
 
   "DASHBOARD_DATAUPLOAD": "Daten-Upload",
@@ -121,8 +122,8 @@
   "CUSTOM_AUTH_HEADER": "Für manuell angelegte Boxen:",
   "CUSTOM_AUTH_TEXT": "Wenn du die Authentifizierung aktivierst musst du den folgenden Token im 'Authentication'-Header an die openSenseMap mitschicken um Daten an deine Box zu übertragen.",
   "ACCESS_TOKEN": "Schlüssel",
-  "GENERATE_NEW_TOKEN_WARNING" : "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. <b>Diesen Schritt kannst du nicht rückgängig machen.</b>",
-  "GENERATE_NEW_TOKEN" : "Neuen Token generieren",
+  "GENERATE_NEW_TOKEN_WARNING": "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. <b>Diesen Schritt kannst du nicht rückgängig machen.</b>",
+  "GENERATE_NEW_TOKEN": "Neuen Token generieren",
   "FURTHER_SECURITY_INFORMATION": "Weitere Informationen zur Sicherheit auf der openSenseMap findest du hier (auch für MQTT und TTN):",
   "FURTHER_SECURITY_INFORMATION_LINK": "https://docs.sensebox.de/opensensemap/opensensemap-security/"
 }

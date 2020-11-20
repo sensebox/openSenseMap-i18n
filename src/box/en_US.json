@@ -1,4 +1,5 @@
 {
+  "ACTIONS_TEST": "Action Test",
   "ARCHIVE": "Archive",
   "CENTER": "Center",
   "SHOW": "Show",
@@ -26,8 +27,8 @@
   "PLEASE_SPECIFY_GROUPID": "Optional prefix for groups of senseBoxes",
   "MANUAL_CONFIGURATION": "Manual configuration",
   "ADD_SENSOR": "Add sensor",
-  "STATION_PLACEMENT_INDOOR":"indoor",
-  "STATION_PLACEMENT_OUTDOOR":"outdoor",
+  "STATION_PLACEMENT_INDOOR": "indoor",
+  "STATION_PLACEMENT_OUTDOOR": "outdoor",
   "STATION_PLACEMENT_MOBILE": "mobile",
   "STATION_PLACEMENT_ALL": "any",
   "CONFIG_ICON": "Icon",
@@ -35,10 +36,10 @@
   "CONFIG_UNIT": "Unit",
   "CONFIG_TYPE": "Type",
   "FINISH": "Finish",
-  "DEFINITION":"Definition",
-  "INTERPRETATION":"Interpretation",
-  "INFLUENCE":"Influences",
-  "FUN_FACT":"Fun Fact",
+  "DEFINITION": "Definition",
+  "INTERPRETATION": "Interpretation",
+  "INFLUENCE": "Influences",
+  "FUN_FACT": "Fun Fact",
 
   "GROUP": "Group",
   "BOX_NAME": "Name",
@@ -86,7 +87,7 @@
   "NOTIFICATION_BOX_UPDATE_FAILED": "Error while updating senseBox",
   "NOTIFICATION_BOX_DELETE_SUCCESS": "senseBox successfully deleted - <a href=\"account\">Dashboard</a>",
   "NOTIFICATION_BOX_DELETE_FAILED": "Error while deleting senseBox",
-  
+
   "NO_MEASUREMENT": "no measurement",
 
   "DASHBOARD_DATAUPLOAD": "Data upload",
@@ -121,8 +122,8 @@
   "CUSTOM_AUTH_TEXT": "If you activate the authentication you have to add the following token to the 'Authentication'-Header of your HTTP requests to the openSenseMap.",
   "ACCESS_TOKEN": "Access Token",
 
-  "GENERATE_NEW_TOKEN_WARNING" : "DANGER: If you generate a new token you have to upload a new sketch to your senseBox. <b>This step can not be undone.</b>",
-  "GENERATE_NEW_TOKEN" : "Generate new Token",
+  "GENERATE_NEW_TOKEN_WARNING": "DANGER: If you generate a new token you have to upload a new sketch to your senseBox. <b>This step can not be undone.</b>",
+  "GENERATE_NEW_TOKEN": "Generate new Token",
 
   "FURTHER_SECURITY_INFORMATION": "Further information regarding security on openSenseMap can be found here (also for TTN and MQTT):",
   "FURTHER_SECURITY_INFORMATION_LINK": "https://en.docs.sensebox.de/opensensemap/opensensemap-security/"
