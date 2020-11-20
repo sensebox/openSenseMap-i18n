@@ -3,10 +3,10 @@ name: Build openSenseMap language package
 on:
   push:
     branches:
-      - actions
+      - beta
   pull_request:
     branches:
-      - actions
+      - beta
 
 jobs:
   test:
