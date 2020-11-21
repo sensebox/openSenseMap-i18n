@@ -1,12 +1,12 @@
 const { src } = require("gulp");
 const jsonschema = require("gulp-json-schema");
 
-function validate() {
-  return src(["dist/en_US.json", "dist/de_DE.json"]).pipe(
-    jsonschema("src/schema.json", {
+function validateSchema(opts) {
+  return function validateSchema() {
+    return src(opts).pipe(jsonschema("src/schema.json", {
       banUnknownProperties: true,
-    })
-  );
+    }));
+  }
 }
 
-module.exports = validate;
+module.exports = validateSchema;
