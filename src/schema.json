@@ -378,8 +378,7 @@
     "PORT": { "type": "string" },
     "COMPILE": { "type": "string" },
     "TTN_KEYS": { "type": "string" },
-    "DONT_SHOW_AGAIN": { "type": "string" },
-    "ACTIONS_TEST": { "type": "string" }
+    "DONT_SHOW_AGAIN": { "type": "string" }
   },
   "required": [
     "EXPLORE",
@@ -766,7 +765,6 @@
     "PORT",
     "COMPILE",
     "TTN_KEYS",
-    "DONT_SHOW_AGAIN",
-    "ACTIONS_TEST"
+    "DONT_SHOW_AGAIN"
   ]
 }
