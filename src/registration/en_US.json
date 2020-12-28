@@ -63,6 +63,7 @@
   "MANUAL": "Manual",
   "YOUR_SENSEBOX": "Your senseBox",
 
+  "GSM_ENABLE":"Tingg aktivieren",
   "GSM_DISCLAIMER":"When you got your GSM modul the International Mobile Subscriber Identity(IMSI)and a secret code was supplied to you. Enter these below to verify it.",
   "GSM_VERIFY":"Verify",
   "GSM_SECRETCODE":"Secret code",

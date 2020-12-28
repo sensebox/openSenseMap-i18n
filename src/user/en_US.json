@@ -49,7 +49,9 @@
   "NOTIFICATION_USER_ACCOUNT_DELETE_SUCCESS": "Account successfully deleted. You will be redirected in 5 seconds to the explore view.",
   "NOTIFICATION_USER_ACCOUNT_DELETE_FAILED": "Dein Benutzerkonto konnte nicht gelöscht werden",
 
-  "GSM_DEACTIVATE_DISCLAIMER":"In order to use the GSM modul with another senseBox, you first have to deactivate it.",
-  "GSM_DEACTIVATE_BUTTON":"Deactivate"
+  "GSM_DEACTIVATE_DISCLAIMER":"In order to use the GSM modul with another senseBox, you first have to deactivate it. If you want to deactivate your modem, please type your current password",
+  "GSM_DEACTIVATE_BUTTON":"Deactivate",
+  "GSM_DEACTIVATE_SUCCESS":"Module has been deactivated succesfully.",
+  "GSM_DEACTIVATE_ERROR":"There was an error, please try again."
 
 }
