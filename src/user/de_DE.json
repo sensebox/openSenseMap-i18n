@@ -47,6 +47,6 @@
   "NOTIFICATION_PASSWORD_UPDATE_SUCCESS": "Dein Passwort wurde erfolgreich geändert. Du wirst in 5 Sekunden umgeleitet und muss dich neu einloggen.",
   "NOTIFICATION_PASSWORD_UPDATE_FAILED": "Das neue Passwort konnte nicht gespeichert werden",
 
-  "GSM_DEACTIVATE_DISCLAIMER":"",
-  "GSM_DEACTIVATE_BUTTON":""
+  "GSM_DEACTIVATE_DISCLAIMER":"Um das GSM Modul mit einer anderen senseBox zu benutzen, muss das GSM Modul vorher deaktiviert werden!",
+  "GSM_DEACTIVATE_BUTTON":"Deaktivieren"
 }

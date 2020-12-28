@@ -63,9 +63,11 @@
   "MANUAL": "Anleitung",
   "YOUR_SENSEBOX": "Deine senseBox",
   
-  "GSM_DISCLAIMER":"",
+  "GSM_DISCLAIMER":"Beim Versand des GSM Moduls wurde dir die International Mobile Subscriber Identity(IMSI) und ein geheimer Code mitgeschickt. Trage diese zwei hier unten ein und verifiziere das GSM Modul.",
   "GSM_VERIFY":"Verifizieren",
   "GSM_SECRETCODE":"Geheimcode",
-  "GSM_IMSI":"IMSI"
+  "GSM_IMSI":"IMSI",
+  "GSM_TOOLTIP":"IMSI"
+
 
 }
