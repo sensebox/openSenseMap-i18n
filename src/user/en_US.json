@@ -47,5 +47,8 @@
   "NOTIFICATION_PASSWORD_UPDATE_SUCCESS": "Password succesfully updated. You will be redirected in 5 seconds and please log in with your new password.",
   "NOTIFICATION_PASSWORD_UPDATE_FAILED": "Error while updating new password",
   "NOTIFICATION_USER_ACCOUNT_DELETE_SUCCESS": "Account successfully deleted. You will be redirected in 5 seconds to the explore view.",
-  "NOTIFICATION_USER_ACCOUNT_DELETE_FAILED": "Dein Benutzerkonto konnte nicht gelöscht werden"
+  "NOTIFICATION_USER_ACCOUNT_DELETE_FAILED": "Dein Benutzerkonto konnte nicht gelöscht werden",
+
+  "GSM_DEACTIVATE_DISCLAIMER":"",
+  "GSM_DEACTIVATE_BUTTON":""
 }

@@ -45,5 +45,8 @@
 
   "NOTIFICATION_PASSWORD_NOT_THE_SAME": "Die beiden neuen Passwörter stimmen nicht überein.",
   "NOTIFICATION_PASSWORD_UPDATE_SUCCESS": "Dein Passwort wurde erfolgreich geändert. Du wirst in 5 Sekunden umgeleitet und muss dich neu einloggen.",
-  "NOTIFICATION_PASSWORD_UPDATE_FAILED": "Das neue Passwort konnte nicht gespeichert werden"
+  "NOTIFICATION_PASSWORD_UPDATE_FAILED": "Das neue Passwort konnte nicht gespeichert werden",
+
+  "GSM_DEACTIVATE_DISCLAIMER":"",
+  "GSM_DEACTIVATE_BUTTON":""
 }

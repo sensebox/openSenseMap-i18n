@@ -61,6 +61,11 @@
   
   "USEFUL_LINKS": "Useful links",
   "MANUAL": "Manual",
-  "YOUR_SENSEBOX": "Your senseBox"
+  "YOUR_SENSEBOX": "Your senseBox",
+
+  "GSM_DISCLAIMER":"",
+  "GSM_VERIFY":"Verifizieren",
+  "GSM_SECRETCODE":"Geheimcode",
+  "GSM_IMSI":"IMSI"
 
 }
