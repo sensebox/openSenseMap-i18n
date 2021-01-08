@@ -35,6 +35,7 @@
   "DIGITAL_PORT": "Digitaler Port",
   "SOUND_LEVEL": "Lautstärke",
   "WIND_SPEED": "Windgeschwindigkeit",
+  "DISPLAY_ENABLED":"Display einschalten",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info Feinstaubsensor (SDS011) ohne Temperatur-/Feuchtesensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info Feinstaubsensor (SDS011) mit",
   "LD_INFO_PMS7003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS7003) mit BME280",

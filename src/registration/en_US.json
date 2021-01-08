@@ -35,6 +35,7 @@
   "DIGITAL_PORT": "Digital port",
   "SOUND_LEVEL": "Sound Level",
   "WIND_SPEED": "Wind speed",
+  "DISPLAY_ENABLED":"Display einschalten",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) without temperature-/humidity Sensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",
   "LD_INFO_PMS7003_WITH_BME": "Luftdaten.info dust particle sensor (PMS7003) with BME280",
