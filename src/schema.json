@@ -386,7 +386,8 @@
     "PORT": {"type":"string"},
     "COMPILE": {"type":"string"},
     "TTN_KEYS": {"type":"string"},
-    "DONT_SHOW_AGAIN": {"type":"string"}
+    "DONT_SHOW_AGAIN": {"type":"string"},
+    "DISPLAY_ENABLED": {"type":"string"}
   },
   "required":
     [
