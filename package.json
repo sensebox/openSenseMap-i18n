@@ -1,6 +1,6 @@
 {
   "name": "@sensebox/opensensemap-i18n",
-  "version": "3.9.5",
+  "version": "3.9.6",
   "description": "Messages and its translations used by openSenseMap and openSenseMap-API",
   "license": "MIT",
   "publishConfig": {
