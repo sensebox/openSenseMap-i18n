@@ -44,5 +44,5 @@
   "PORT": "Port",
   "COMPILE": "Compile",
   "TTN_KEYS": "You can find your TTN keys in the TTN console",
-  "DONT_SHOW_AGAIN": "Do not show again"
+  "DONT_SHOW_AGAIN": "Do not show again."
 }
