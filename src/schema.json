@@ -387,7 +387,10 @@
     "COMPILE": {"type":"string"},
     "TTN_KEYS": {"type":"string"},
     "DONT_SHOW_AGAIN": {"type":"string"},
-    "DISPLAY_ENABLED": {"type":"string"}
+    "DISPLAY_ENABLED": {"type":"string"},
+    "DANKE": {"type":"string"},
+    "DANKESTEXT": {"type":"string"},
+    "BESONDERERDANK": {"type":"string"}
   },
   "required":
     [
