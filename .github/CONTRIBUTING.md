@@ -8,6 +8,7 @@ We are generally open for contributions and happy that you want to help translat
 3. Commit your changes (`npm run commit`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request against branch `master`
+6. Merge pull request and update Version number in package.json. Travis will release new npm version.
 
 ## Git Commit Guidelines
 We are following [AngularJS's commit message convention](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) also known as [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog).
