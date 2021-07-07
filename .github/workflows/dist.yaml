@@ -1,0 +1,41 @@
+name: Build openSenseMap language package
+
+on:
+  push:
+    branches:
+      - master
+      - beta
+  pull_request:
+    branches:
+      - master
+      - beta
+
+jobs:
+  test:
+    name: Test package
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install
+      - run: npm run build --if-present
+      - run: npm test
+        env:
+          CI: true
+      - name: Archive language files
+        uses: actions/upload-artifact@v2
+        with:
+          name: openSenseMap-i18n
+          path: dist
+      - name: Release new version
+        run: npm run semantic-release
+        if: ${{ github.event_name == 'push'}}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

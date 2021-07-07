@@ -8,24 +8,24 @@
   },
   "files": [
     "dist",
-    "CONTRIBUTING.md"
+    ".github/CONTRIBUTING.md"
   ],
   "devDependencies": {
-    "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.1.0",
-    "gulp": "^3.9.1",
-    "gulp-clean": "^0.3.2",
-    "gulp-json-schema": "^1.0.0",
-    "gulp-jsonminify": "^1.0.0",
-    "gulp-merge-json": "^1.2.0",
-    "semantic-release": "^8.2.0",
-    "through2": "^2.0.3"
+    "commitizen": "4.2.2",
+    "cz-conventional-changelog": "3.3.0",
+    "gulp": "4.0.2",
+    "gulp-clean": "0.4.0",
+    "gulp-json-schema": "1.0.0",
+    "gulp-jsonminify": "1.1.0",
+    "gulp-merge-json": "2.1.1",
+    "semantic-release": "17.2.4"
   },
   "scripts": {
     "commit": "git-cz",
     "build": "gulp",
-    "test": "npm run build && gulp validate",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "validate": "gulp validate",
+    "test": "npm run validate",
+    "semantic-release": "semantic-release"
   },
   "config": {
     "commitizen": {
@@ -35,5 +35,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sensebox/openSenseMap-i18n.git"
+  },
+  "release": {
+    "branches": [
+      "master",
+      "next",
+      {
+        "name": "beta",
+        "prerelease": true
+      }
+    ]
   }
 }
