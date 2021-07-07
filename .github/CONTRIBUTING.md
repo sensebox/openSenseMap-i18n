@@ -21,7 +21,7 @@ You find all translations inside the `src` folder and it is sorted by `openSense
 
 ## Local development
 Make sure you have the following tools installed:
-- Node.Js v8
+- Node.Js v12
 - npm
 
 Fork, then clone the repo:
