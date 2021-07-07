@@ -1,13 +1,11 @@
 {
-  "ARCHIVE": "Archiv",
+  "ARCHIVE": "Archiveeee",
   "CENTER": "Zentrieren",
   "SHOW": "Anzeigen",
-
   "BOX_LATITUDE": "Geographische Breite",
   "BOX_LONGITUDE": "Geographische Länge",
   "BOX_HEIGHT": "Höhe (GPS, nicht über Grund!)",
   "BOX_POSITION_RESET": "Ort zurücksetzen",
-
   "MQTT_DESCRIPTION": "openSenseMap bietet einen <a href=\"http://mqtt.org/\" target=\"blank\">MQTT</a> Klienten an. Die Dokumentation der Parameter befinden sich <a href=\"https://docs.opensensemap.org/#api-Boxes-postNewBox\" target=\"blank\">hier.</a> Bitte beachte, dass über MQTT nur das Empfangen von Messwerten möglich ist.",
   "MQTT_ENABLE": "MQTT aktivieren",
   "MQTT_URL": "Url",
@@ -18,7 +16,6 @@
   "MQTT_DECODEOPTIONS": "Dekodierungsoptionen",
   "MQTT_CONNECTIONOPTIONS": "Verbindungsoptionen",
   "MQTT_INVALID_URL": "Das URL Schema ist nicht korrekt! Die URL muss mit mqtt[s]:// beginnen.",
-
   "NAME_YOUR_STATION": "Name deiner Station",
   "STATION_PLACEMENT": "Aufstellungsort",
   "GROUP_NAME": "Gruppenkennzeichnung",
@@ -38,7 +35,6 @@
   "INTERPRETATION": "Interpretation",
   "INFLUENCE": "Einflüsse",
   "FUN_FACT": "Fun Fact",
-
   "GROUP": "Gruppe",
   "BOX_NAME": "Name",
   "BOX_DESCRIPTION": "Beschreibung",
@@ -63,7 +59,6 @@
   "EDIT_DELETEINFO": "Wenn du deine Station löschen möchtest, tippe zum Bestätigen dein aktuelles Passwort in das Feld - alle zugehörigen Messdaten werden gelöscht.",
   "EDIT_DELETE": "senseBox löschen",
   "EDIT_DELETEERROR": "Deine senseBox konnte nicht gelöscht werden, bitte schreib uns eine Email",
-
   "TTN_DESCRIPTION": "Die openSenseMap bietet eine Integration mit <a href=\"https://www.thethingsnetwork.org\" target=\"blank\">TheThingsNetwork</a> an. Für eine Erklärung der Parameter siehe <a href=\"https://github.com/sensebox/ttn-osem-integration\" target=\"blank\">hier</a>",
   "TTN_PROFILE": "Dekodierungs-Profil",
   "TTN_APPID": "TTN Application-ID",
@@ -71,25 +66,18 @@
   "TTN_DECODEOPTIONS": "Dekodierungsoptionen",
   "TTN_INVALID_DECODEOPTS": "Die Dekodierungsoptionen müssen ein valides JSON-Array sein! Für das genaue Format betrachte bitte die Dokumentation.",
   "TTN_PORT": "Port",
-
   "EXTENSIONS_FINE_PARTICULATE_MATTER": "Feinstaub",
-
   "CHART_NODATA": "Dieser Sensor hat keine Messdaten",
   "BOX_BOXDETAILSINFO": "Hier stehen weitere Informationen zu dieser senseBox, der Besitzer dieser Station hat jedoch nichts hinterlegt.",
-
   "SENSEBOX_NOT_FOUND": "senseBox nicht gefunden",
-
   "SETTINGS_SELECTIMAGE": "Bild auswählen",
   "SETTINGS_IMAGE_RESTRICTIONS": "Nur PNG, JPG, JPEG Dateien bis 500 KB Dateigröße sind erlaubt",
   "LAST_MEASUREMENT_FROM": "letzter Wert vom",
-
   "NOTIFICATION_BOX_UPDATE_SUCCESS": "senseBox wurde erfolgreich aktualisiert - <a href=\"explore/{{boxId}}\">anzeigen</a>",
   "NOTIFICATION_BOX_UPDATE_FAILED": "senseBox konnte nicht aktualisiert werden",
   "NOTIFICATION_BOX_DELETE_SUCCESS": "senseBox wurde gelöscht - <a href=\"account\">Dashboard</a>",
   "NOTIFICATION_BOX_DELETE_FAILED": "senseBox konnte nicht gelöscht werden",
-
   "NO_MEASUREMENT": "nichts gemessen",
-
   "DASHBOARD_DATAUPLOAD": "Daten-Upload",
   "DATAUPLOAD_TITLE": "Manueller Daten-Upload",
   "DATAUPLOAD_INFO": "Hier kannst du Messungen zu deiner senseBox manuell hochladen. Dies kann sinnvoll sein, wenn die senseBox die Daten nur auf eine SD-Karte loggt da kein direkets Kommunikationsmittel verfügbar ist. Lade entweder eine Datei hoch oder kopiere die Daten in das Textfeld. Die verfügbaren Datenformate sind <a href=\"https://docs.opensensemap.org/#api-Measurements-postNewMeasurements\" target=\"_blank\">hier</a> beschrieben.",
@@ -100,14 +88,12 @@
   "DATAUPLOAD_ERR_FORMAT": "Ungültiges Datenformat",
   "DATAUPLOAD_ERR_BadRequest": "Ungültige Sensor-ID",
   "DATAUPLOAD_ERR_UnprocessableEntity": "Messung(en) konnten nicht gelesen werden",
-
   "SENSOR_DELETE_ALL_MEASUREMENTS": "Möchtest du wirklich alle Messungen für diesen Sensor löschen?",
   "SENSOR_DELETE_TIMEFRAME_MEASUREMENTS": "Möchtest du für den gewählten Zeitraum wirklich alle Messungen löschen?",
   "SENSOR_DELETE_TIMEFRAME_DESCRIPTION": "Wähle einen Zeitraum und lösche alle Messungen innerhalb des Zeitraums.",
   "SENSOR_SELECT_DELETE_OPTION": "Wähle eine der Löschoptionen:",
   "NOTIFICATION_NO_MATCHING_MEASUREMENTS": "Es wurden keine Messungen gefunden!",
   "NOTIFICATION_SUCCESSFULLY_DELETED": "Die Messungen von Sensor {{ sensorId }} wurden erfolgreich gelöscht!",
-
   "BOX_SECURITY": "Sicherheit",
   "EDIT_SECURITY": "Sicherheitseinstellungen ändern",
   "USE_AUTH_LABEL": "Box Authentifizierung aktivieren",
