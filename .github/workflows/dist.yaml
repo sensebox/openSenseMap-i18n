@@ -3,9 +3,11 @@ name: Build openSenseMap language package
 on:
   push:
     branches:
+      - master
       - beta
   pull_request:
     branches:
+      - master
       - beta
 
 jobs:
@@ -33,6 +35,7 @@ jobs:
           path: dist
       - name: Release new version
         run: npm run semantic-release
+        if: ${{ github.event_name == 'push'}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
