@@ -110,5 +110,12 @@
   "GENERATE_NEW_TOKEN_WARNING": "VORSICHT: Wenn du einen neuen Token generierst musst du einen neuen Sketch auf deine senseBox laden. <b>Diesen Schritt kannst du nicht rückgängig machen.</b>",
   "GENERATE_NEW_TOKEN": "Neuen Token generieren",
   "FURTHER_SECURITY_INFORMATION": "Weitere Informationen zur Sicherheit auf der openSenseMap findest du hier (auch für MQTT und TTN):",
-  "FURTHER_SECURITY_INFORMATION_LINK": "https://docs.sensebox.de/opensensemap/opensensemap-security/"
+  "FURTHER_SECURITY_INFORMATION_LINK": "https://docs.sensebox.de/opensensemap/opensensemap-security/",
+  
+  "GSM_TING_DISCLAIMER":"Mit der Benutzung des GSM Moduls, werden deine Daten zuerst an die Plattform tingg.io hochgeladen. Von dort aus werden die Daten an die openSenseMap weitergeleitet",
+  "GSM_TING_SUCCESSVERIFICATION":"Verifizierung erfolgreich!",
+  "GSM_ENABLE":"GSM Verbindung aktivieren",
+  "GSM_IMSI":"IMSI(Internationale Mobilfunk-Teilnehmerkennung)",
+  "GSM_SECRETCODE":"Geheimer Schlüssel",
+  "GSM_VERIFY":"Verifizieren!"
 }

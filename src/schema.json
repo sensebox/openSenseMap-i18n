@@ -1165,6 +1165,24 @@
     },
     "SPECIALTHANKS": {
       "type": "string"
+    },
+    "GSM_TING_DISCLAIMER" : {
+      "type":"string"
+    },
+    "GSM_TING_SUCCESSVERIFICATION" : {
+      "type":"string"
+    },
+    "GSM_ENABLE" : {
+      "type":"string"
+    },
+    "GSM_IMSI" : {
+      "type":"string"
+    },
+    "GSM_SECRETCODE" : {
+      "type":"string"
+    },
+    "GSM_VERIFY" : {
+      "type":"string"
     }
   },
   "required": [
