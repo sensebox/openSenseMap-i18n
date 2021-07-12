@@ -125,5 +125,12 @@
   "GENERATE_NEW_TOKEN": "Generate new Token",
 
   "FURTHER_SECURITY_INFORMATION": "Further information regarding security on openSenseMap can be found here (also for TTN and MQTT):",
-  "FURTHER_SECURITY_INFORMATION_LINK": "https://en.docs.sensebox.de/opensensemap/opensensemap-security/"
+  "FURTHER_SECURITY_INFORMATION_LINK": "https://en.docs.sensebox.de/opensensemap/opensensemap-security/",
+
+  "GSM_TING_DISCLAIMER":"With the usage of the GSM Bee, your data will first be uploaded to tingg.io and then forwarded to the openSenseMap.",
+  "GSM_TING_SUCCESSVERIFICATION":"Verification successful!",
+  "GSM_ENABLE":"Activate GSM connectivity!",
+  "GSM_IMSI":"IMSI(International Mobile Subscriber Identity)",
+  "GSM_SECRETCODE":"Secret Code",
+  "GSM_VERIFY":"Verify!"
 }
