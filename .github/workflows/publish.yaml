@@ -30,7 +30,7 @@ jobs:
           name: openSenseMap-i18n
           path: dist
       - name: Update version
-        run: npm version ${{ github.ref }}
+        run: npm version ${{ github.event.release.tag_name }}
       - name: Release new version
         run: npm publish --access public
         env:
