@@ -1,14 +1,10 @@
-name: Build openSenseMap language package
+name: Build openSenseMap language package and publish
 
 on:
-  push:
+  release:
     branches:
-      - master
-      - beta
-  pull_request:
-    branches:
-      - master
-      - beta
+      - main
+    types: [released]
 
 jobs:
   test:
@@ -34,8 +30,6 @@ jobs:
           name: openSenseMap-i18n
           path: dist
       - name: Release new version
-        run: npm run semantic-release
-        if: ${{ github.event_name == 'push'}}
+        run: npm publish
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
