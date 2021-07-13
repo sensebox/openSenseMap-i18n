@@ -30,6 +30,9 @@ jobs:
           name: openSenseMap-i18n
           path: dist
       - name: Release new version
-        run: npm publish --tag ${{ github.event.release.tag_name }} --access public
+        # Get tag name and delete v so we get a SemVer compliant version
+        run: |
+          tag="${{ github.event.release.tag_name }"
+          npm publish --tag "${tag#v}" --access public
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
