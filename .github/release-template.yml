@@ -9,11 +9,9 @@ categories:
 
   - title: 🧰 Maintenance
     label: chore
-
 exclude-labels:
   - "dependencies"
   - "refactor"
-
 version-resolver:
   major:
     labels:
@@ -25,7 +23,6 @@ version-resolver:
     labels:
       - "chore"
   default: patch
-
 change-template: "- $TITLE (#$NUMBER) @$AUTHOR"
 template: |
   ## Changes
