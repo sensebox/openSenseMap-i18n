@@ -31,7 +31,7 @@ jobs:
           path: dist
       - name: Release new version
         run: |
-          npm verison ${{ github.event.release.tag_name }} --no-git-tag-version --no-commit-hooks
+          npm version ${{ github.event.release.tag_name }} --no-git-tag-version --no-commit-hooks
           npm publish --access public
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
