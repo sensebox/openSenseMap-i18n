@@ -1,11 +1,7 @@
 {
   "name": "@sensebox/opensensemap-i18n",
-  "version": "4.0.6",
   "description": "Messages and its translations used by openSenseMap and openSenseMap-API",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "files": [
     "dist",
     ".github/CONTRIBUTING.md"
