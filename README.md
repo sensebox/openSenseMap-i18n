@@ -1,11 +1,7 @@
 <h1 align="center" style="border-bottom: none;">openSenseMap-i18n</h1>
 <p align="center">
-
   <a href="https://www.npmjs.com/package/@sensebox/opensensemap-i18n">
     <img alt="npm latest version" src="https://img.shields.io/npm/v/@sensebox/opensensemap-i18n/latest.svg">
-  </a>
-  <a href="https://www.npmjs.com/package/@sensebox/opensensemap-i18n">
-    <img alt="npm beta version" src="https://img.shields.io/npm/v/@sensebox/opensensemap-i18n/beta.svg">
   </a>
 </p>
 
