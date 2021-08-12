@@ -35,8 +35,8 @@
   "REGISTERED_BOXES_INFO": "Lege eine neue senseBox an, indem du auf Registrieren klickst oder schau dir unsere Dokumentation an.",
   "DOCUMENTATION": "Dokumentation",
 
-  "CREATE_NEW_SENSEBOX": "Neue senseBox anlegen",
-  "CREATE_NEW_SENSEBOX_INFO": "Um eine neue neue senseBox anzulegen, brauchst du einen Account. Registriere dich über das folgende Formular und danach kannst du direkt eine neue senseBox anlegen. Falls du schon einen Account hast, kannst du dich einfach anmelden.",
+  "CREATE_NEW_SENSEBOX": "Neue Messstation anlegen",
+  "CREATE_NEW_SENSEBOX_INFO": "Um eine neue Messstation anzulegen, brauchst du einen Account. Registriere dich über das folgende Formular und danach kannst du direkt eine neue Messstation anlegen. Falls du schon einen Account hast, kannst du dich einfach anmelden.",
 
   "NOTIFICATION_USER_UPDATE_SUCCESS": "Dein Profil wurde erfolgreich aktualisiert.",
   "NOTIFICATION_USER_UPDATE_FAILED": "Dein Profil konnte nicht aktualisiert werden.",
