@@ -917,6 +917,9 @@
     "COMPILE_SKETCH": {
       "type": "string"
     },
+    "COMPILE_ETHERNET_SKETCH": {
+      "type": "string"
+    },
     "AGREE": {
       "type": "string"
     },
@@ -1333,6 +1336,7 @@
     "DOWNLOAD_WARNING",
     "PLEASE_WAIT_DATA",
     "COMPILE_SKETCH",
+    "COMPILE_ETHERNET_SKETCH",
     "DOWNLOAD_NODATA",
     "COMMON_ERROR",
     "HELP_SECTION",

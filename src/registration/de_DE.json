@@ -47,7 +47,7 @@
   "LD_INFO_PMS1003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS1003) mit BME280",
   "LD_INFO_PMS1003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS1003) ohne Temperatur-/Feuchtesensor",
   "STEP2_SUB4": "Erweitert",
-  
+
   "STEP3": "Bestätigen",
   "STEP3_DESCRIPTION": "Um deine senseBox endgültig einzutragen, klicke auf \"Abschließen\" und du erhältst anschließend von uns eine Mail mit den Anweisungen zum Aufbau und Upload der Software auf deine senseBox. Falls du es dir anders überlegt hast, klicke auf Abbrechen und du gelangst zur Erkundenseite.",
   "STEP4": "Zusammenfassung",
@@ -59,6 +59,7 @@
   "CUSTOMBOX_SENSORINCOMPLETE": "Die Sensoren sind unvollständig, bitte überprüfe, ob du alle Felder (Phänomen, Einheit und Typ) ausgefüllt hast",
   "REG_HARDWAREINCOMPLETE": "Das Hardwaresetup ist unvollständig, bitte wähle eine senseBox Variante",
   "COMPILE_SKETCH": "Du hast kein Arduino installiert? Kein Problem! Konfiguriere hier dein WiFi und klicke auf kompilieren. Danach erhälst du eine <kbd>sketch.bin</kbd> Datei, die du per Drag&Drop auf deine senseBox MCU kopieren kannst.",
+  "COMPILE_ETHERNET_SKETCH": "Du hast kein Arduino installiert? Kein Problem! Wenn du DHCP in deinem Netzwerk aktiviert hast, klicke auf kompilieren. Danach erhälst du eine <kbd>sketch.bin</kbd> Datei, die du per Drag&Drop auf deine senseBox MCU kopieren kannst.",
 
   "USEFUL_LINKS": "Nützliche Links",
   "MANUAL": "Anleitung",

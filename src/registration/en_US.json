@@ -59,7 +59,8 @@
   "CUSTOMBOX_SENSORINCOMPLETE": "Your sensor setup is incomplete, please check if you have filled all fields (phenomenon, unit and type)",
   "REG_HARDWAREINCOMPLETE": "Your hardware setup is incomplete, please select a model",
   "COMPILE_SKETCH": "You didn't install the Arduino IDE? No problem! Configure your WiFi here and click on compile. Then you will receive a <kbd>sketch.bin</kbd> file, which you can drag&drop to your senseBox MCU.",
-  
+  "COMPILE_ETHERNET_SKETCH": "You didn't install the Arduino IDE? No problem! If you have DHCP enabled on your network click on compile. Then you will receive a <kbd>sketch.bin</kbd> file, which you can drag&drop to your senseBox MCU.",
+
   "USEFUL_LINKS": "Useful links",
   "MANUAL": "Manual",
   "YOUR_SENSEBOX": "Your senseBox"
