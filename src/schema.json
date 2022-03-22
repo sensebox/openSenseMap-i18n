@@ -1186,6 +1186,9 @@
     },
     "GSM_VERIFY" : {
       "type":"string"
+    },
+    "SAME_ADDRESS_WARNING": {
+      "type":"string"
     }
   },
   "required": [
@@ -1560,6 +1563,7 @@
     "PORT",
     "COMPILE",
     "TTN_KEYS",
-    "DONT_SHOW_AGAIN"
+    "DONT_SHOW_AGAIN",
+    "SAME_ADDRESS_WARNING"
   ]
 }
