@@ -54,6 +54,7 @@
   "EDIT_SCRIPT_MANUAL": "A guided instruction including the upload of the sketch is available here: <a href=\"https://en.docs.sensebox.de/category/sensebox-home/\" target=\"_blank\">senseBox:home Documentation (english)</a>",
   "EDIT_SCRIPT_DOWNLOAD_RESOURCES": "If you would like to upload the Sketch with the Arduino IDE you can find more informationen <a href=\"https://en.docs.sensebox.de/category/arduino/\" target=\"_blank\">here</a>.",
   "EDIT_TTN": "TheThingsNetwork",
+  "EDIT_TRANSFER": "Transfer",
   "EDIT_MQTTOPTIONS": "MQTT",
   "EDIT_CHANGESENSORS": "Sensors",
   "EDIT_CHANGESENSORS_DELETE_SENSOR": "This sensor will be deleted.",

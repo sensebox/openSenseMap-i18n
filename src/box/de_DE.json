@@ -49,6 +49,7 @@
   "EDIT_SCRIPT_MANUAL": "Eine Anleitung zum Aufbau der senseBox und dem Upload des Sketch findest du hier: <a href=\"https://docs.sensebox.de/category/sensebox-home/\" target=\"_blank\">senseBox:home Dokumentation</a>",
   "EDIT_SCRIPT_DOWNLOAD_RESOURCES": "Möchtest du deinen Sketch über die Arduino IDE auf deine senseBox übertragen findest du <a href=\"https://docs.sensebox.de/category/arduino/\" target=\"_blank\">hier</a> mehr Informationen.",
   "EDIT_TTN": "TheThingsNetwork",
+  "EDIT_TRANSFER": "Transfer",
   "EDIT_MQTTOPTIONS": "MQTT",
   "EDIT_MQTTOPTIONSINFO": "",
   "EDIT_CHANGESENSORS": "Sensoren",
@@ -111,7 +112,7 @@
   "GENERATE_NEW_TOKEN": "Neuen Token generieren",
   "FURTHER_SECURITY_INFORMATION": "Weitere Informationen zur Sicherheit auf der openSenseMap findest du hier (auch für MQTT und TTN):",
   "FURTHER_SECURITY_INFORMATION_LINK": "https://docs.sensebox.de/opensensemap/opensensemap-security/",
-  
+
   "GSM_TING_DISCLAIMER":"Mit der Benutzung des GSM Moduls, werden deine Daten zuerst an die Plattform tingg.io hochgeladen. Von dort aus werden die Daten an die openSenseMap weitergeleitet",
   "GSM_TING_SUCCESSVERIFICATION":"Verifizierung erfolgreich!",
   "GSM_ENABLE":"GSM Verbindung aktivieren",

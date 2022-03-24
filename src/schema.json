@@ -140,6 +140,9 @@
     "EDIT_TTN": {
       "type": "string"
     },
+    "EDIT_TRANSFER": {
+      "type": "string"
+    },
     "EDIT_MQTTOPTIONS": {
       "type": "string"
     },
@@ -1189,6 +1192,9 @@
     },
     "SAME_ADDRESS_WARNING": {
       "type":"string"
+    },
+    "DEVICE": {
+      "type": "string"
     }
   },
   "required": [
@@ -1325,6 +1331,7 @@
     "EDIT_SCRIPT_MANUAL",
     "EDIT_SCRIPT_DOWNLOAD_RESOURCES",
     "EDIT_TTN",
+    "EDIT_TRANSFER",
     "EDIT_MQTTOPTIONS",
     "EDIT_MQTTOPTIONSINFO",
     "EDIT_CHANGESENSORS",
@@ -1564,6 +1571,7 @@
     "COMPILE",
     "TTN_KEYS",
     "DONT_SHOW_AGAIN",
-    "SAME_ADDRESS_WARNING"
+    "SAME_ADDRESS_WARNING",
+    "DEVICE"
   ]
 }
