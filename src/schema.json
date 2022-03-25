@@ -1195,6 +1195,18 @@
     },
     "DEVICE": {
       "type": "string"
+    },
+    "TRANSFER_INFORMATION": {
+      "type": "string"
+    },
+    "TRANSFER_INPUT_LABEL": {
+      "type": "string"
+    },
+    "TRANSFER_BUTTON_TEXT": {
+      "type": "string"
+    },
+    "CLAIM_DEVICE": {
+      "type": "string"
     }
   },
   "required": [
@@ -1572,6 +1584,10 @@
     "TTN_KEYS",
     "DONT_SHOW_AGAIN",
     "SAME_ADDRESS_WARNING",
-    "DEVICE"
+    "DEVICE",
+    "TRANSFER_INFORMATION",
+    "TRANSFER_INPUT_LABEL",
+    "TRANSFER_BUTTON_TEXT",
+    "CLAIM_DEVICE"
   ]
 }
