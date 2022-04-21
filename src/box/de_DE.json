@@ -119,8 +119,12 @@
   "GSM_IMSI":"IMSI(Internationale Mobilfunk-Teilnehmerkennung)",
   "GSM_SECRETCODE":"Geheimer Schlüssel",
   "GSM_VERIFY":"Verifizieren!",
-  "TRANSFER_INFORMATION": "Um den Transfer durchzuführen, gib unten den Namen an und klicke auf den Button. Darauf bekommst du einen <b>Token</b> angezeigt. Diesen <b>Token</b> gibst du weiter an den neuen Besitzer. Der neue Besitzer muss in seinem Account auf <b>Gerät übernehmen</b> klicken und den <b>Token</b> eingeben. Danach wird das Gerät in den neuen Account transferiert.<br><br>Der Transfer kann sich verzögern, bis der neue Eigentümer den <b>Token</b> eingegeben hat.",
+  "TRANSFER_NOTICE": "Dieses Gerät einem anderen Benutzer übetragen!",
+  "TRANSFER_INFORMATION": "Um den Transfer durchzuführen, gib unten den Namen an und klicke auf den Button. Darauf bekommst du einen <b>Token</b> angezeigt. Diesen <b>Token</b> gibst du weiter an den neuen Besitzer. Der neue Besitzer muss in seinem Account den <b>Token</b> eingeben und auf <b>Gerät übernehmen</b> klicken. Danach wird das Gerät in den neuen Account transferiert.<br><br>Der Transfer kann sich verzögern, bis der neue Eigentümer den <b>Token</b> eingegeben hat.",
   "TRANSFER_INPUT_LABEL": "Gib <strong>{{ name }}</strong> ein.",
   "TRANSFER_BUTTON_TEXT": "Ich verstehe, übertragen Sie dieses Gerät",
-  "CLAIM_DEVICE": "Gerät übernhemen"
+  "CLAIM_DEVICE": "Gerät übernhemen",
+  "CLAIM_HEADER": "Du möchtest ein Gerät von einem anderen Benutzer übernehmen?",
+  "CLAIM_INFORMATION": "Gib hier den <kbd>Token</kbd> ein, den du bekommen hast",
+  "CLAIM_VALID_TOKEN": "Dies ist kein valider Token!"
 }
