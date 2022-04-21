@@ -49,6 +49,7 @@
   "EDIT_SCRIPT_MANUAL": "Eine Anleitung zum Aufbau der senseBox und dem Upload des Sketch findest du hier: <a href=\"https://docs.sensebox.de/category/sensebox-home/\" target=\"_blank\">senseBox:home Dokumentation</a>",
   "EDIT_SCRIPT_DOWNLOAD_RESOURCES": "Möchtest du deinen Sketch über die Arduino IDE auf deine senseBox übertragen findest du <a href=\"https://docs.sensebox.de/category/arduino/\" target=\"_blank\">hier</a> mehr Informationen.",
   "EDIT_TTN": "TheThingsNetwork",
+  "EDIT_TRANSFER": "Transfer",
   "EDIT_MQTTOPTIONS": "MQTT",
   "EDIT_MQTTOPTIONSINFO": "",
   "EDIT_CHANGESENSORS": "Sensoren",
@@ -111,11 +112,19 @@
   "GENERATE_NEW_TOKEN": "Neuen Token generieren",
   "FURTHER_SECURITY_INFORMATION": "Weitere Informationen zur Sicherheit auf der openSenseMap findest du hier (auch für MQTT und TTN):",
   "FURTHER_SECURITY_INFORMATION_LINK": "https://docs.sensebox.de/opensensemap/opensensemap-security/",
-  
+
   "GSM_TING_DISCLAIMER":"Mit der Benutzung des GSM Moduls, werden deine Daten zuerst an die Plattform tingg.io hochgeladen. Von dort aus werden die Daten an die openSenseMap weitergeleitet",
   "GSM_TING_SUCCESSVERIFICATION":"Verifizierung erfolgreich!",
   "GSM_ENABLE":"GSM Verbindung aktivieren",
   "GSM_IMSI":"IMSI(Internationale Mobilfunk-Teilnehmerkennung)",
   "GSM_SECRETCODE":"Geheimer Schlüssel",
-  "GSM_VERIFY":"Verifizieren!"
+  "GSM_VERIFY":"Verifizieren!",
+  "TRANSFER_NOTICE": "Dieses Gerät einem anderen Benutzer übetragen!",
+  "TRANSFER_INFORMATION": "Um den Transfer durchzuführen, gib unten den Namen an und klicke auf den Button. Darauf bekommst du einen <b>Token</b> angezeigt. Diesen <b>Token</b> gibst du weiter an den neuen Besitzer. Der neue Besitzer muss in seinem Account den <b>Token</b> eingeben und auf <b>Gerät übernehmen</b> klicken. Danach wird das Gerät in den neuen Account transferiert.<br><br>Der Transfer kann sich verzögern, bis der neue Eigentümer den <b>Token</b> eingegeben hat.",
+  "TRANSFER_INPUT_LABEL": "Gib <strong>{{ name }}</strong> ein.",
+  "TRANSFER_BUTTON_TEXT": "Ich verstehe, übertragen Sie dieses Gerät",
+  "CLAIM_DEVICE": "Gerät übernhemen",
+  "CLAIM_HEADER": "Du möchtest ein Gerät von einem anderen Benutzer übernehmen?",
+  "CLAIM_INFORMATION": "Gib hier den <kbd>Token</kbd> ein, den du bekommen hast",
+  "CLAIM_VALID_TOKEN": "Dies ist kein valider Token!"
 }

@@ -140,6 +140,9 @@
     "EDIT_TTN": {
       "type": "string"
     },
+    "EDIT_TRANSFER": {
+      "type": "string"
+    },
     "EDIT_MQTTOPTIONS": {
       "type": "string"
     },
@@ -1189,6 +1192,48 @@
     },
     "SAME_ADDRESS_WARNING": {
       "type":"string"
+    },
+    "DEVICE": {
+      "type": "string"
+    },
+    "TRANSFER_NOTICE": {
+      "type": "string"
+    },
+    "TRANSFER_INFORMATION": {
+      "type": "string"
+    },
+    "TRANSFER_INPUT_LABEL": {
+      "type": "string"
+    },
+    "TRANSFER_BUTTON_TEXT": {
+      "type": "string"
+    },
+    "CLAIM_DEVICE": {
+      "type": "string"
+    },
+    "EXPIRATION": {
+      "type": "string"
+    },
+    "DAY": {
+      "type": "string"
+    },
+    "DAYS": {
+      "type": "string"
+    },
+    "REVOKE": {
+      "type": "string"
+    },
+    "EXPIRES_AT": {
+      "type": "string"
+    },
+    "CLAIM_HEADER": {
+      "type": "string"
+    },
+    "CLAIM_INFORMATION": {
+      "type": "string"
+    },
+    "CLAIM_VALID_TOKEN": {
+      "type": "string"
     }
   },
   "required": [
@@ -1325,6 +1370,7 @@
     "EDIT_SCRIPT_MANUAL",
     "EDIT_SCRIPT_DOWNLOAD_RESOURCES",
     "EDIT_TTN",
+    "EDIT_TRANSFER",
     "EDIT_MQTTOPTIONS",
     "EDIT_MQTTOPTIONSINFO",
     "EDIT_CHANGESENSORS",
@@ -1564,6 +1610,20 @@
     "COMPILE",
     "TTN_KEYS",
     "DONT_SHOW_AGAIN",
-    "SAME_ADDRESS_WARNING"
+    "SAME_ADDRESS_WARNING",
+    "DEVICE",
+    "TRANSFER_NOTICE",
+    "TRANSFER_INFORMATION",
+    "TRANSFER_INPUT_LABEL",
+    "TRANSFER_BUTTON_TEXT",
+    "CLAIM_DEVICE",
+    "EXPIRATION",
+    "DAY",
+    "DAYS",
+    "REVOKE",
+    "EXPIRES_AT",
+    "CLAIM_HEADER",
+    "CLAIM_INFORMATION",
+    "CLAIM_VALID_TOKEN"
   ]
 }
