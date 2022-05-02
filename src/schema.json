@@ -1234,6 +1234,12 @@
     },
     "CLAIM_VALID_TOKEN": {
       "type": "string"
+    },
+    "LD_INFO_PREDEF_DEVICES": {
+      "type": "string"
+    },
+    "CUSTOMBOX_LD_DEVICE_INFO": {
+      "type": "string"
     }
   },
   "required": [
@@ -1624,6 +1630,8 @@
     "EXPIRES_AT",
     "CLAIM_HEADER",
     "CLAIM_INFORMATION",
-    "CLAIM_VALID_TOKEN"
+    "CLAIM_VALID_TOKEN",
+    "LD_INFO_PREDEF_DEVICES",
+    "CUSTOMBOX_LD_DEVICE_INFO"
   ]
 }
