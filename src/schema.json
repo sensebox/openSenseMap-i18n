@@ -1243,8 +1243,7 @@
     },
     "CUSTOMBOX_LD_DEVICE_INFO": {
       "type": "string"
-    },
-    ""
+    }
   },
   "required": [
     "EXPLORE",
