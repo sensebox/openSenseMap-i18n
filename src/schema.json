@@ -1240,6 +1240,9 @@
     },
     "CUSTOMBOX_LD_DEVICE_INFO": {
       "type": "string"
+    },
+    "INFO_OSM_HINT": {
+      "type": "string"
     }
   },
   "required": [
@@ -1632,6 +1635,7 @@
     "CLAIM_INFORMATION",
     "CLAIM_VALID_TOKEN",
     "LD_INFO_PREDEF_DEVICES",
-    "CUSTOMBOX_LD_DEVICE_INFO"
+    "CUSTOMBOX_LD_DEVICE_INFO",
+    "INFO_OSM_HINT"
   ]
 }

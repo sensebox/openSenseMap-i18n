@@ -17,5 +17,6 @@
   "INFO_BMBF": "The world measured with photonics – With the help of the funding from the Federal Ministry of Education and Research we aim to reach as much citizens as possible. Schools and school labs will be able to integrate the contents of the senseBox in their curriculum and museums or science centers can adopt them for further offers. In addition, the opensensemap will be expanded to include several new features.",
   "THANKSDONATION": "Thank you!",
   "DONATIONTHANKS_TEXT": "We would like to thank all our donors for their help. <br> <br> You help us to become better.",
-  "SPECIALTHANKS": "Very special thanks go to the following researchers and organisations:"
+  "SPECIALTHANKS": "Very special thanks go to the following researchers and organisations:",
+  "INFO_OSM_HINT": "openSenseMap uses open data from OpenStreetMap (as a basemap), but is not endorsed by or affiliated with the OpenStreetMap Foundation"
 }
