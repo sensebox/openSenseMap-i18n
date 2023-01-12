@@ -17,5 +17,6 @@
   "INFO_BMBF": "Mit Photonik die Welt vermessen – Mit Hilfe der Förderung des Bundesministeriums für Bildung und Forschung soll bis 2019 die senseBox Photonik möglichst viele Bürgerinnen und Bürger erreichen. Schulen und Schülerlabore können die Inhalte der senseBox Photonik in ihren Lehrplan integrieren und naturkundliche Museen und Science Center sie bei praktischen Angeboten einsetzen. Zusätzlich wird die OpenSenseMap um verschiedene neue Funktionen erweitert.",
   "THANKSDONATION": "Danke!",
   "DONATIONTHANKS_TEXT": "Wir möchten uns ganz herzlich bei allen Spenderinnen und Spendern für ihre Mithilfe bedanken. <br> <br> Ihr helft uns dabei, besser werden zu können.",
-  "SPECIALTHANKS": "Ein ganz besonderer Dank geht an die folgenden Forscher*innen und Organisationen:"
+  "SPECIALTHANKS": "Ein ganz besonderer Dank geht an die folgenden Forscher*innen und Organisationen:",
+  "INFO_OSM_HINT": "Die openSenseMap verwendet offene Daten von OpenStreetMap (als Hintergrundkarte), wird aber weder von der OpenStreetMap Foundation unterstützt noch ist sie mit ihr verbunden."
 }
