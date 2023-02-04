@@ -28,6 +28,7 @@
   "SENSOR_TEMP_PRESSURE": "Airpressure & Temperature",
   "SENSOR_LIGHT_UV": "Illumination & UV-Radiation",
   "SENSOR_PM": "Fine dust (PM10 & PM2.5)",
+  "SENSOR_PM_SPS":"Fine dust sensor(SPS30)",
   "CONNECTION": "Connection",
   "PHENOMENON": "Phenomenon",
   "TEMPERATURE_HUMIDITY_PRESSURE": "Temperature, humidity & airpressure",
@@ -68,5 +69,4 @@
   "YOUR_SENSEBOX": "Your senseBox",
 
   "SAME_ADDRESS_WARNING": "You want to use several sensors with the same address! A multiplexer is required for this."
-
 }

@@ -599,6 +599,9 @@
     "SENSOR_PM": {
       "type": "string"
     },
+    "SENSOR_PM_SPS": {
+      "type": "string"
+    },
     "CONNECTION": {
       "type": "string"
     },
@@ -1281,6 +1284,7 @@
     "SENSOR_TEMP_PRESSURE",
     "SENSOR_LIGHT_UV",
     "SENSOR_PM",
+    "SENSOR_PM_SPS",
     "CONNECTION",
     "LD_INFO_SDS_WITHOUT_TEMP",
     "LD_INFO_SDS_WITH",

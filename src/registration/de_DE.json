@@ -28,6 +28,7 @@
   "SENSOR_TEMP_PRESSURE": "Luftdruck & Temperatur",
   "SENSOR_LIGHT_UV": "Beleuchtungsstärke & UV-Strahlung",
   "SENSOR_PM": "Feinstaub (PM10 & PM2.5)",
+  "SENSOR_PM_SPS":"Feinstaubsensor(SPS30)",
   "CONNECTION": "Anschluss",
   "PHENOMENON": "Phänomene",
   "TEMPERATURE_HUMIDITY_PRESSURE": "Temperatur, Luftfeuchtigkeit & Luftdruck",
