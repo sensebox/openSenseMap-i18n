@@ -1166,6 +1166,9 @@
     "DISPLAY_ENABLED": {
       "type": "string"
     },
+    "ENABLE_DEBUG": {
+      "type": "string"
+    },
     "THANKSDONATION": {
       "type": "string"
     },

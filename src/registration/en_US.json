@@ -37,6 +37,7 @@
   "SOUND_LEVEL": "Sound Level",
   "WIND_SPEED": "Wind speed",
   "DISPLAY_ENABLED":"Enable OLED display",
+  "ENABLE_DEBUG":"Enable debug output",
   "LD_INFO_PREDEF_DEVICES": "If your sensor setup is not listed here. Go to manuel configuration and setup your device.",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) without temperature-/humidity Sensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",

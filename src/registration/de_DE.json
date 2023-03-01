@@ -37,6 +37,7 @@
   "SOUND_LEVEL": "Lautstärke",
   "WIND_SPEED": "Windgeschwindigkeit",
   "DISPLAY_ENABLED":"OLED Display einschalten",
+  "ENABLE_DEBUG":"Debug Modus einschalten",
   "LD_INFO_PREDEF_DEVICES": "Wenn dein Sensorsetup nicht aufgeführt ist, gehe zur manuellen Konfiguration.",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info Feinstaubsensor (SDS011) ohne Temperatur-/Feuchtesensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info Feinstaubsensor (SDS011) mit",
