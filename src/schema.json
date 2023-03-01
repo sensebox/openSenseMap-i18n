@@ -746,6 +746,9 @@
     "ACCOUNT_MAIL_CONFIRMED": {
       "type": "string"
     },
+    "ACCOUNT_RESEND_EMAIL": {
+      "type": "string"
+    },
     "ACCOUNT_UPDATE": {
       "type": "string"
     },
@@ -1175,26 +1178,26 @@
     "SPECIALTHANKS": {
       "type": "string"
     },
-    "GSM_TING_DISCLAIMER" : {
-      "type":"string"
+    "GSM_TING_DISCLAIMER": {
+      "type": "string"
     },
-    "GSM_TING_SUCCESSVERIFICATION" : {
-      "type":"string"
+    "GSM_TING_SUCCESSVERIFICATION": {
+      "type": "string"
     },
-    "GSM_ENABLE" : {
-      "type":"string"
+    "GSM_ENABLE": {
+      "type": "string"
     },
-    "GSM_IMSI" : {
-      "type":"string"
+    "GSM_IMSI": {
+      "type": "string"
     },
-    "GSM_SECRETCODE" : {
-      "type":"string"
+    "GSM_SECRETCODE": {
+      "type": "string"
     },
-    "GSM_VERIFY" : {
-      "type":"string"
+    "GSM_VERIFY": {
+      "type": "string"
     },
     "SAME_ADDRESS_WARNING": {
-      "type":"string"
+      "type": "string"
     },
     "DEVICE": {
       "type": "string"
@@ -1460,6 +1463,7 @@
     "ACCOUNT_LOGIN",
     "ACCOUNT_MAIL_NOT_CONFIRMED",
     "ACCOUNT_MAIL_CONFIRMED",
+    "ACCOUNT_RESEND_EMAIL",
     "ACCOUNT_UPDATE",
     "ACCOUNT_SIGN_UP",
     "ACCOUNT_USERNAME",
