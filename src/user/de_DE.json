@@ -17,6 +17,7 @@
   "ACCOUNT_LOGIN": "Anmelden",
   "ACCOUNT_MAIL_NOT_CONFIRMED": "Email Adresse ist noch nicht bestätigt!",
   "ACCOUNT_MAIL_CONFIRMED": "Email Adresse ist bestätigt!",
+  "ACCOUNT_RESEND_EMAIL": "Email erneut senden",
   "ACCOUNT_UPDATE": "Aktualisieren",
   "ACCOUNT_SIGN_UP": "Registrieren",
   "ACCOUNT_USERNAME": "E-Mail, vollständiger Name oder Pseudonym",

@@ -17,6 +17,7 @@
   "ACCOUNT_LOGIN": "Login",
   "ACCOUNT_MAIL_NOT_CONFIRMED": "Email address is not confirmed!",
   "ACCOUNT_MAIL_CONFIRMED": "Email address is confirmed!",
+  "ACCOUNT_RESEND_EMAIL": "Resend email",
   "ACCOUNT_UPDATE": "Update",
   "ACCOUNT_SIGN_UP": "Sign up",
   "ACCOUNT_USERNAME": "Mail, full name or nickname",
