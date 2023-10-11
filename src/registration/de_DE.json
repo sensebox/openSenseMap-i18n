@@ -49,6 +49,8 @@
   "LD_INFO_PMS3003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS3003) ohne Temperatur-/Feuchtesensor",
   "LD_INFO_PMS1003_WITH_BME": "Luftdaten.info Feinstaubsensor (PMS1003) mit BME280",
   "LD_INFO_PMS1003_WITHOUT": "Luftdaten.info Feinstaubsensor (PMS1003) ohne Temperatur-/Feuchtesensor",
+  "LD_INFO_SPS30_BME280": "Luftdaten.info Feinstaubsensor (SPS30) mit BME280",
+  "LD_INFO_SPS30_SHT3X": "Luftdaten.info Feinstaubsensor (SPS30) mit SHT3X",
   "STEP2_SUB4": "Erweitert",
 
   "STEP3": "Bestätigen",
