@@ -653,6 +653,12 @@
     "LD_INFO_PMS1003_WITHOUT": {
       "type": "string"
     },
+    "LD_INFO_SPS30_BME280": {
+      "type": "string"
+    },
+    "LD_INFO_SPS30_SHT3X": {
+      "type": "string"
+    },
     "STEP2_SUB4": {
       "type": "string"
     },

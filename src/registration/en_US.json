@@ -28,7 +28,7 @@
   "SENSOR_TEMP_PRESSURE": "Airpressure & Temperature",
   "SENSOR_LIGHT_UV": "Illumination & UV-Radiation",
   "SENSOR_PM": "Fine dust (PM10 & PM2.5)",
-  "SENSOR_PM_SPS":"Fine dust sensor(SPS30)",
+  "SENSOR_PM_SPS": "Fine dust sensor(SPS30)",
   "CONNECTION": "Connection",
   "PHENOMENON": "Phenomenon",
   "TEMPERATURE_HUMIDITY_PRESSURE": "Temperature, humidity & airpressure",
@@ -36,8 +36,8 @@
   "DIGITAL_PORT": "Digital port",
   "SOUND_LEVEL": "Sound Level",
   "WIND_SPEED": "Wind speed",
-  "DISPLAY_ENABLED":"Enable OLED display",
-  "ENABLE_DEBUG":"Enable debug output",
+  "DISPLAY_ENABLED": "Enable OLED display",
+  "ENABLE_DEBUG": "Enable debug output",
   "LD_INFO_PREDEF_DEVICES": "If your sensor setup is not listed here. Go to manuel configuration and setup your device.",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info dust particle sensor (SDS011) without temperature-/humidity Sensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info dust particle sensor (SDS011) with",
@@ -49,6 +49,8 @@
   "LD_INFO_PMS3003_WITHOUT": "Luftdaten.info dust particle sensor (PMS3003) without temperature-/humidity Sensor",
   "LD_INFO_PMS1003_WITH_BME": "Luftdaten.info dust particle sensor (PMS1003) with BME280",
   "LD_INFO_PMS1003_WITHOUT": "Luftdaten.info dust particle sensor (PMS1003) without temperature-/humidiry Sensor",
+  "LD_INFO_SPS30_BME280": "Luftdaten.info dust particle (SPS30) with BME280",
+  "LD_INFO_SPS30_SHT3X": "Luftdaten.info dust particle (SPS30) with SHT3X",
 
   "STEP2_SUB4": "Advanced",
 
