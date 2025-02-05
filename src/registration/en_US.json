@@ -71,5 +71,6 @@
   "MANUAL": "Manual",
   "YOUR_SENSEBOX": "Your senseBox",
 
-  "SAME_ADDRESS_WARNING": "You want to use several sensors with the same address! A multiplexer is required for this."
+  "SAME_ADDRESS_WARNING": "You want to use several sensors with the same address! A multiplexer is required for this.",
+  "SENSOR_RG_15": "Optical Rain Gauge RG-15"
 }

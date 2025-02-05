@@ -45,5 +45,6 @@
   "VOC_DEFINITION": "Flüchtige Organische Verbindungen (engl. <b>V</b>olatile <b>O</b>rganic <b>C</b>ompounds) umschreiben gas- oder dampfförmige organische Verbindungen in der Atemluft. Zu ihnen gehören beispielsweise Kohlenwasserstoffe, Alkohole, Aldehyde und organische Säuren. Die Quellen für VOCs können sowohl biologischer (z.B. Atmung von Säugetieren) als auch technischer Natur (z.B. Ausdünstungen von Lacken und Klebstoffen) sein.",
   "VOC_UNIT": "Ohm (Ω) ",
   "VOC_INTERPRETATION": "Der ausgegebene Widerstandswert ist ein Äquivalent für die Konzentration von VOCs in der Raumluft, lässt also nur qualitative Aussagen zu. Der Messbereicht liegt zwischen einem Minimalwert 50Ω bis zu einem Maximalwert 50kΩ. Generell kann man sagen, je höher der Widerstand, desto höher die Konzentration an VOCs in der Luft.",
-  "VOC_FUN_FACT": ""
+  "VOC_FUN_FACT": "",
+  "SENSOR_RG_15": "Hydreon RG-15 Regensensor"
 }

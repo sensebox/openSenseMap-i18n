@@ -28,7 +28,7 @@
   "SENSOR_TEMP_PRESSURE": "Luftdruck & Temperatur",
   "SENSOR_LIGHT_UV": "Beleuchtungsstärke & UV-Strahlung",
   "SENSOR_PM": "Feinstaub (PM10 & PM2.5)",
-  "SENSOR_PM_SPS":"Feinstaubsensor(SPS30)",
+  "SENSOR_PM_SPS": "Feinstaubsensor(SPS30)",
   "CONNECTION": "Anschluss",
   "PHENOMENON": "Phänomene",
   "TEMPERATURE_HUMIDITY_PRESSURE": "Temperatur, Luftfeuchtigkeit & Luftdruck",
@@ -36,8 +36,8 @@
   "DIGITAL_PORT": "Digitaler Port",
   "SOUND_LEVEL": "Lautstärke",
   "WIND_SPEED": "Windgeschwindigkeit",
-  "DISPLAY_ENABLED":"OLED Display einschalten",
-  "ENABLE_DEBUG":"Debug Modus einschalten",
+  "DISPLAY_ENABLED": "OLED Display einschalten",
+  "ENABLE_DEBUG": "Debug Modus einschalten",
   "LD_INFO_PREDEF_DEVICES": "Wenn dein Sensorsetup nicht aufgeführt ist, gehe zur manuellen Konfiguration.",
   "LD_INFO_SDS_WITHOUT_TEMP": "Luftdaten.info Feinstaubsensor (SDS011) ohne Temperatur-/Feuchtesensor",
   "LD_INFO_SDS_WITH": "Luftdaten.info Feinstaubsensor (SDS011) mit",
@@ -71,5 +71,6 @@
   "MANUAL": "Anleitung",
   "YOUR_SENSEBOX": "Deine senseBox",
 
-  "SAME_ADDRESS_WARNING": "Sie wollen mehrere Sensoren mit der gleichen Adresse nutzen! Dafür wird ein Multiplexer benötigt."
+  "SAME_ADDRESS_WARNING": "Sie wollen mehrere Sensoren mit der gleichen Adresse nutzen! Dafür wird ein Multiplexer benötigt.",
+  "SENSOR_RG_15": "Hydreon RG-15 Regensensor"
 }
