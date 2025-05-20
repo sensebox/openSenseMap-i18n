@@ -23,6 +23,8 @@
   "SELECT": "Auswählen",
   "BASED_MCU": "basiert auf senseBox MCU",
   "CONNECTION_TYPE": "Verbindungsart",
+  "POWERSUPPY": "Stromversorgung",
+  "SOLARSET": "Solarset",
   "SENSORS": "Sensoren",
   "SENSOR_TEMP_HUMI": "Temperatur & Luftfeuchtigkeit",
   "SENSOR_TEMP_PRESSURE": "Luftdruck & Temperatur",
@@ -74,4 +76,5 @@
   "SAME_ADDRESS_WARNING": "Sie wollen mehrere Sensoren mit der gleichen Adresse nutzen! Dafür wird ein Multiplexer benötigt.",
   "SENSOR_RG_15": "Hydreon RG-15 Regensensor",
   "SERIAL_PORT": "Serielle Schnittstelle"
+
 }
