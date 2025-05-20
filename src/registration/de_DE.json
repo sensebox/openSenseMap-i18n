@@ -23,7 +23,7 @@
   "SELECT": "Auswählen",
   "BASED_MCU": "basiert auf senseBox MCU",
   "CONNECTION_TYPE": "Verbindungsart",
-  "POWERSUPPY": "Stromversorgung",
+  "POWERSUPPLY": "Stromversorgung",
   "SOLARSET": "Solarset",
   "SENSORS": "Sensoren",
   "SENSOR_TEMP_HUMI": "Temperatur & Luftfeuchtigkeit",

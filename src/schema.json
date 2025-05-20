@@ -1264,6 +1264,12 @@
     },
     "SERIAL_PORT": {
       "type": "string"
+    },
+    "POWERSUPPLY": {
+      "type": "string"
+    },
+    "SOLARSET": {
+      "type": "string"
     }
   },
   "required": [
@@ -1662,8 +1668,7 @@
     "INFO_OSM_HINT",
     "SENSOR_RG_15",
     "SERIAL_PORT",
-    "POWERSUPPY",
+    "POWERSUPPLY",
     "SOLARSET"
-
   ]
 }
