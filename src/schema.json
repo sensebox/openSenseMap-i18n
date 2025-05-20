@@ -1661,6 +1661,9 @@
     "CUSTOMBOX_LD_DEVICE_INFO",
     "INFO_OSM_HINT",
     "SENSOR_RG_15",
-    "SERIAL_PORT"
+    "SERIAL_PORT",
+    "POWERSUPPY",
+    "SOLARSET"
+
   ]
 }
