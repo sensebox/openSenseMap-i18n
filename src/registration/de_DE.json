@@ -75,6 +75,7 @@
 
   "SAME_ADDRESS_WARNING": "Sie wollen mehrere Sensoren mit der gleichen Adresse nutzen! Dafür wird ein Multiplexer benötigt.",
   "SENSOR_RG_15": "Hydreon RG-15 Regensensor",
-  "SERIAL_PORT": "Serielle Schnittstelle"
+  "SERIAL_PORT": "Serielle Schnittstelle",
+  "NOTSAMESERIALPORT": "Fehler: SDS011 und RG-15 dürfen nicht denselben seriellen Port nutzen."
 
 }

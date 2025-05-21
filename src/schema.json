@@ -1270,6 +1270,9 @@
     },
     "SOLARSET": {
       "type": "string"
+    },
+    "NOTSAMESERIALPORT" : {
+      "type": "string"
     }
   },
   "required": [
@@ -1669,6 +1672,7 @@
     "SENSOR_RG_15",
     "SERIAL_PORT",
     "POWERSUPPLY",
-    "SOLARSET"
+    "SOLARSET",
+    "NOTSAMESERIALPORT"
   ]
 }

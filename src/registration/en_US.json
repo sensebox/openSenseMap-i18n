@@ -75,5 +75,7 @@
 
   "SAME_ADDRESS_WARNING": "You want to use several sensors with the same address! A multiplexer is required for this.",
   "SENSOR_RG_15": "Optical Rain Gauge RG-15",
-  "SERIAL_PORT": "Serial Port"
+  "SERIAL_PORT": "Serial Port",
+  "NOTSAMESERIALPORT": "Error: SDS011 and RG-15 must not use the same serial port."
+
 }
